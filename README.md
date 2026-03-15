@@ -376,3 +376,16 @@ AI時代に、人間が何を考え、何を出力し、何を公開し、
 - Web Media JP: https://choappceo.wordpress.com/
 - Web Media EN: https://choiizuka.wordpress.com/
 - GitHub: https://github.com/choiizuka?tab=repositories
+
+---
+
+## SNS
+
+- X (JP): https://x.com/choiizuka
+- X (EN): https://x.com/choiizuka_en
+- Instagram (activity): https://www.instagram.com/choiizuka/
+- Instagram (photography): https://www.instagram.com/toshihide.choiizuka/
+- Threads: https://www.threads.com/toshihide.choiizuka/
+- YouTube (live coding / work log): https://youtube.com/@choiizuka/
+
+- Search "CHOIIZUKA" on the web.
