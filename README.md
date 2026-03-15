@@ -99,14 +99,6 @@ AIが戦争に組み込まれる現代において、
 
 ---
 
-## YouTube作業ログ / YouTube Work Log
-
-AI活用・ライブコーディング・即興作業のログを公開しています。
-
-- [YouTube作業ログ プレイリスト](https://www.youtube.com/watch?v=CazjYDzmG7g&list=PL7KWAs39_6SzIPx5eUf2DSEQPT7kwcpBu)
-
----
-
 ## GitHubレポート / GitHub Reports
 
 このセクションには、各テーマごとの検証レポート、数理メモ、分析資料、補助資料を順次追加していきます。
@@ -297,6 +289,14 @@ AI活用・ライブコーディング・即興作業のログを公開してい
 
 - **[Experimental]** [Scientific-Proof-of-7-Eleven-s-Low-Resilience-Bagel-Sales-Strategy](https://github.com/choiizuka/Scientific-Proof-of-7-Eleven-s-Low-Resilience-Bagel-Sales-Strategy)  
   商品戦略と触覚報酬ループの分析
+
+---
+
+## YouTube作業ログ / YouTube Work Log
+
+AI活用・ライブコーディング・即興作業のログを公開しています。
+
+- [YouTube作業ログ プレイリスト](https://www.youtube.com/watch?v=CazjYDzmG7g&list=PL7KWAs39_6SzIPx5eUf2DSEQPT7kwcpBu)
 
 ---
 
