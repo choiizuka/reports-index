@@ -118,7 +118,7 @@ AIが戦争に組み込まれる現代において、
 
 AI活用・ライブコーディング・即興作業のログを公開しています。
 
-- [YouTube作業ログ](https://youtu.be/va2t40Zwjso)
+- [YouTube作業ログ プレイリスト](https://www.youtube.com/watch?v=CazjYDzmG7g&list=PL7KWAs39_6SzIPx5eUf2DSEQPT7kwcpBu)
 
 ---
 
