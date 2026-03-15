@@ -71,6 +71,7 @@ AI・人類に関するシミュレーターなどを公開しています。
 
 - [Civilization OS Calculator](https://choiizuka.github.io/God-s-View-Civilization-OS-Calculator/)
 - [AI-War-Visualizer](https://choiizuka.github.io/God-s-View-AI-War-Visualizer/)
+- [AI-Nuclear-War-Visualizer](https://choiizuka.github.io/God-s-View-AI-Nuclear-War-Visualizer/)
 
 ---
 
