@@ -70,7 +70,7 @@ AI・人類に関するシミュレーターなどを公開しています。
 神の視点になり文明の滅亡までの時間をシミュレーションするプログラムです。
 
 - [Civilization OS Calculator](https://choiizuka.github.io/God-s-View-Civilization-OS-Calculator/)
-- [AI-War-Visualizer](https://github.com/choiizuka/God-s-View-AI-War-Visualizer/blob/main/README.md)
+- [AI-War-Visualizer](https://choiizuka.github.io/God-s-View-AI-War-Visualizer/)
 
 ---
 
