@@ -155,8 +155,6 @@ AIが戦争に組み込まれる現代において、
 - **[Recommended]** [The-Mars-Hardware-Bug-Analysis-Elon-Hack-Deployment-](https://github.com/choiizuka/The-Mars-Hardware-Bug-Analysis-Elon-Hack-Deployment-)  
   火星移住論の「物理的逃避バグ」分析
 
----
-
 #### 関連書籍 / Books
 
 ##### 1. イランAI戦争 / Iran AI War
@@ -171,6 +169,8 @@ AIが戦争に組み込まれる現代において、
 
 - JP: [侵略の21世紀2026](https://amzn.to/4sdzGU5)
 - EN: [Invasion of the 21st Century 2026](https://amzn.to/4bkJVPa)
+
+---
 
 ### 3. Human Extinction and Civilization Risk / 人類絶滅・文明崩壊リスク
 
@@ -201,7 +201,7 @@ AIが戦争に組み込まれる現代において、
 - **[Experimental]** [The-Proof-of-Human-Regression](https://github.com/choiizuka/The-Proof-of-Human-Regression)  
   人類の退化の証明
 
-#### 書籍 / Books
+#### 関連書籍 / Books
 
 ##### 1. 人類は必ず絶滅する2026 / Humanity Will Definitely Go Extinct 2026
 人類絶滅リスクを、感情論ではなく構造的・文明論的に捉え直すための書籍です。
