@@ -62,6 +62,14 @@ AI活用・ライブコーディング・即興作業のログを公開してい
 
 ---
 
+## プログラム / Program
+
+AI・人類に関するシミュレーターなどを公開しています。
+
+- [神の視点 — Civilization OS Calculator](https://choiizuka.github.io/God-s-View-Civilization-OS-Calculator/)
+
+---
+
 ## 書籍 / Books
 
 ### 1. イランAI戦争 / Iran AI War
