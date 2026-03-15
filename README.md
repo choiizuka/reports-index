@@ -69,9 +69,9 @@ AI・人類に関するシミュレーターなどを公開しています。
 ### 1. 神の視点 / God-s-View — Civilization OS
 神の視点になり文明の滅亡までの時間をシミュレーションするプログラムです。
 
-- [Civilization OS Calculator](https://choiizuka.github.io/God-s-View-Civilization-OS-Calculator/)
-- [AI-War-Visualizer](https://choiizuka.github.io/God-s-View-AI-War-Visualizer/)
 - [AI-Nuclear-War-Visualizer](https://choiizuka.github.io/God-s-View-AI-Nuclear-War-Visualizer/)
+- [AI-War-Visualizer](https://choiizuka.github.io/God-s-View-AI-War-Visualizer/)
+- [Civilization OS Calculator](https://choiizuka.github.io/God-s-View-Civilization-OS-Calculator/)
 
 ---
 
