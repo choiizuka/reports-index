@@ -348,6 +348,8 @@ AIが戦争に組み込まれる現代において、
 - **[Experimental]** [Choiizuka_Crone](https://github.com/choiizuka/Choiizuka_Crone)  
   AI Clone / Simulation Backup
 
+- **[Nobunaga OS 2.0 Setting]** [The Nonbunaga OS 2.0 Setting](https://github.com/choiizuka/The-Nobunaga-OS-2.0-Setting)
+
 ---
 
 ### 9. Experimental / Miscellaneous / 実験的・その他
