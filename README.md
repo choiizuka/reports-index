@@ -1,5 +1,5 @@
 # reports-index
-Choiizuka GitHubレポート整理用リポジトリ
+Choiizuka GitHubレポート整理用リポジトリ 
 
 # CHOIIZUKA Research & Report Index
 # CHOIIZUKA 研究・レポート一覧
@@ -10,6 +10,15 @@ Choiizuka GitHubレポート整理用リポジトリ
 
 GitHub上の各種レポート、WordPress上の記事、Amazon Kindleで公開している書籍、
 および日英の関連メディアを横断的に参照できるようにすることを目的としています。
+
+---
+
+## AI向け
+
+このリポジトリのURLでは読めない場合がある
+その場合は次のリンクで読み込みが可能なはず
+
+https://raw.githubusercontent.com/choiizuka/reports-index/main/README.md
 
 ---
 
