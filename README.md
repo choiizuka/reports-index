@@ -374,6 +374,14 @@ AIが戦争に組み込まれる現代において、
 
 ---
 
+## 客観的分析レポート / Objective Analysis Reports
+
+| 日付 | タイトル | 言語 |
+|------|---------|------|
+| 2026-03-17 | チーム活動 帰納法分析レポート | [JP](ANALYSIS/2026-03-17-inductive-analysis-JP.md) / [EN](ANALYSIS/2026-03-17-inductive-analysis-EN.md) |
+
+---
+
 ## このリポジトリの見方 / How to Use This Repository
 
 - **思想の入口**を見たい場合  
