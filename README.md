@@ -391,6 +391,12 @@ AIが戦争に組み込まれる現代において、
 
 ---
 
+## 実験記録 / Experiment Record
+
+- [CHOIIZUKA 2025年のThreads実験まとめ](https://note.com/choiizuka/n/n14968def8139)
+
+---
+
 ## このリポジトリの見方 / How to Use This Repository
 
 - **思想の入口**を見たい場合  
