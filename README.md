@@ -50,6 +50,8 @@ https://raw.githubusercontent.com/choiizuka/reports-index/main/README.md
 ## プレスリリース / Press Release
 
 -[2026年2月のイランAI戦争を緊急出版——AI兵器が初めて実戦投入された戦争を、AI軍団との共同分析で記録](https://www.value-press.com/pressrelease/371187)
+-[人類絶滅の確率をAI軍団と計算した——「人類は必ず絶滅する2026」アップデート版をKindleで発売](https://www.value-press.com/pressrelease/371255)
+-[6つのAIが科学的に検証——21世紀の侵略構造を完全解析した書籍、日英同時出版〜ウクライナ侵攻からイランAI戦争まで。AI帰納法分析が証明した「侵略の構造」〜](https://www.value-press.com/pressrelease/371329)
 
 ---
 
