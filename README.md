@@ -112,6 +112,10 @@ AI活用・ライブコーディング・即興作業のログを公開してい
 
 AI・人類に関するシミュレーターなどを公開しています。
 
+### イメージ映像 / Image Movie
+
+- [AI戦争シミュレーションプロモーション映像](https://www.instagram.com/reel/DV9QkQxDLJz/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
+
 ### 1. 神の視点 / God-s-View — Civilization OS
 神の視点になり文明の滅亡までの時間をシミュレーションするプログラムです。
 
