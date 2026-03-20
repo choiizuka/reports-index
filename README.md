@@ -1,3 +1,5 @@
+[🇺🇸 for English - Google Translate →](https://translate.google.co.jp/?hl=ja&sl=ja&tl=en&text=https%3A%2F%2Fgithub.com%2Fchoiizuka%2Freports-index%0A&op=translate)
+
 # reports-index
 Choiizuka GitHubレポート整理用リポジトリ 
 
