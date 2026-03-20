@@ -1,6 +1,6 @@
 # 🌐 CHOIIZUKA - Nobunaga OS 2.0 — Reports Index
 
-[🇯🇵 日本語完全版 / Japanese Full Edition → README_JP.md](./README_JP.md)
+[🇯🇵 日本語完全版 / Japanese Full Edition → README.md](./README_JP.md)
 
 ---
 
