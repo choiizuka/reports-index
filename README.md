@@ -1,7 +1,7 @@
 # Reports Index — Choiizuka GitHub Report Directory  
 **English Edition**
 
-[日本語版はこちら / Japanese Version (README_JP.md)](./README_JP.md)
+[日本語版(完全版）はこちら / Japanese Version (README_JP.md)](./README_JP.md)
 
 ---
 
