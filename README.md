@@ -34,7 +34,7 @@ https://raw.githubusercontent.com/choiizuka/reports-index/main/README.md
 
 人類の幸福度スキャンシステム開発
 
-- []()
+- [人類の幸福度スキャンシステム開発のお知らせ](https://choappceo.wordpress.com/2026/03/21/global-happiness-scan-20260321/)
 
 ### 人類の現在地のシミュレーションと未来予測
 
