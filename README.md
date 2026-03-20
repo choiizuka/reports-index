@@ -22,8 +22,11 @@ This index is updated continuously as new reports are published.
 ## 📂 Repository Structure
 
 /
+
 ├── README_JP.md        ← Japanese main index
+
 ├── README_EN.md        ← English index (this file)
+
 └── reports/            ← Linked reports stored in other repositories
 
 
