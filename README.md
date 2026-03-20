@@ -30,11 +30,19 @@ https://raw.githubusercontent.com/choiizuka/reports-index/main/README.md
 
 ## 本活動全体のビジョン / Vision
 
+### 人類の幸福を実現する活動
+
+人類の幸福度スキャンシステム開発
+
+- []()
+
+### 人類の現在地のシミュレーションと未来予測
+
 人類が今どこにいるかを観測し、この先をシミュレートする。
 誰もやっていないから、できる自分がやる。
 強制はしない。事実を示し、選ぶのは自由意志に任せる。
 
--[2026.3.17 AITeamとの会議ログより小学生にもわかる説明](https://github.com/choiizuka/reports-index/blob/main/daily/log_20260317.md)
+- [2026.3.17 AITeamとの会議ログより小学生にもわかる説明](https://github.com/choiizuka/reports-index/blob/main/daily/log_20260317.md)
 
 ---
 
@@ -117,7 +125,11 @@ AI活用・ライブコーディング・即興作業のログを公開してい
 
 ## プログラム / Program
 
-AI・人類に関するシミュレーターなどを公開しています。
+AI・宇宙・人類・歴史などに関するシミュレーターやゲーム、プログラムなどを開発しています。
+
+### 3Dゲーム開発
+
+-[3Dゲーム開発のお知らせ](https://www.youtube.com/watch?v=Gz9zuq_K1AY)
 
 ### イメージ映像 / Image Movie
 
