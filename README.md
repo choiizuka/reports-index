@@ -1,93 +1,47 @@
-# Reports Index — Choiizuka GitHub Report Directory  
-**English Edition**
+# 🌐 CHOIIZUKA - Nobunaga OS 2.0 — Reports Index
 
-[日本語版(完全版）はこちら / Japanese Version (README_JP.md)](./README_JP.md)
-
----
-
-## 📘 Overview
-This repository serves as a **central index** for all public reports, documents, and analysis logs created by the Choiizuka project.  
-It provides a structured list of GitHub-hosted reports, categorized for easy navigation and external reference.
-
-The purpose of this repository is to:
-- Organize all reports in one place  
-- Provide a clear directory for external readers  
-- Support transparency and accessibility  
-- Enable cross‑platform linking (GitHub, WordPress, press releases, SNS)
-
-This index is updated continuously as new reports are published.
+[🇯🇵 日本語完全版 / Japanese Full Edition → README_JP.md](./README_JP.md)
 
 ---
 
-## 📂 Repository Structure
-
-/
-
-├── README_JP.md        ← Japanese main index
-
-├── README_EN.md        ← English index (this file)
-
-└── reports/            ← Linked reports stored in other repositories
-
+Central index for all public reports, documents, and specifications.
 
 ---
 
-## 📑 Report Categories
+## 📡 Public Systems
 
-### **1. Public Observation Systems**
-These documents define public‑facing systems such as SNS positivity analysis, happiness observation, and other non‑invasive monitoring frameworks.
-
-- **SNS Positivity & Happiness Observation System v2.0 (EN)**  
-  https://github.com/choiizuka/The-Nobunaga-OS-2.0-Setting/blob/main/public_observations/sns_positivity_happiness_system_v2.0_en.md
-
-- **SNS Positivity & Happiness Observation System v2.0 (JP)**  
-  https://github.com/choiizuka/The-Nobunaga-OS-2.0-Setting/blob/main/public_observations/sns_positivity_happiness_system_v2.0_ja.md
+### SNS Positivity & Happiness Observation System
+- [v2.0 (EN)](https://github.com/choiizuka/The-Nobunaga-OS-2.0-Setting/blob/main/public_observations/sns_positivity_happiness_system_v2.0_en.md)
+- [v2.0 (JP)](https://github.com/choiizuka/The-Nobunaga-OS-2.0-Setting/blob/main/public_observations/sns_positivity_happiness_system_v2.0_ja.md)
 
 ---
 
-### **2. Civilization Audit / Nobunaga OS 2.0**
-Reports related to the Nobunaga OS 2.0 framework, AI operational principles, and civilization‑level audit systems.
+## 📘 Core Settings & Framework
 
-Repository:  
-https://github.com/choiizuka/The-Nobunaga-OS-2.0-Setting
+- [The Nobunaga OS 2.0 — Official Settings Repository](https://github.com/choiizuka/The-Nobunaga-OS-2.0-Setting)
 
 ---
 
-### **3. Daily Logs / Observations**
-Daily summaries, AI interactions, and operational logs published across multiple platforms.
+## 📚 Books & Publications
 
-(Links will be added as the project expands.)
-
----
-
-## 🌍 Purpose of This Index
-This repository functions as a **public gateway** to the broader Choiizuka ecosystem, which includes:
-
-- AI operational frameworks  
-- Public observation systems  
-- Civilization audit methodologies  
-- WordPress articles  
-- Press releases  
-- SNS announcements  
-- Future publications and books  
-
-By centralizing all report links, this index ensures that readers can easily navigate the entire project.
+- [Kindle EN — HUMANITY WILL INEVITABLY GO EXTINCT 2026 × AI](https://www.amazon.com/dp/B0GSGB8J3P)
+- [Kindle JP — 人類は必ず絶滅する2026×AI](https://www.amazon.co.jp/dp/B0GSGGQDZZ)
 
 ---
 
-## 🔄 Update Policy
-This index is updated whenever:
-- New reports are published  
-- Existing documents are revised  
-- New public systems are released  
-- Press releases or WordPress articles are added  
+## 🌐 Articles & Media
 
-Updates are ongoing and incremental.
+- [WordPress EN](https://choiizuka.wordpress.com)
+- [WordPress JP](https://choappceo.wordpress.com)
+- [2026 Manifesto](https://choappceo.wordpress.com/2026/03/10/2026-manifesto-intelligence-ai-and-human-responsibility/)
+- [GitHub: The Mathematical Paradox of Universal High Income](https://github.com/choiizuka/The-Mathematical-Paradox-of-Universal-High-Income-)
 
 ---
 
-## 📣 Notes
-This repository is part of a larger initiative aimed at improving transparency, scientific reasoning, and public understanding of AI‑assisted analysis systems.
+## 📂 GitHub Reports
 
-For inquiries or collaboration, please refer to the project owner’s official channels.
+[← Back to this index / レポート一覧に戻る](https://github.com/choiizuka/reports-index)
 
+---
+
+*This index is updated continuously. Some items are provisional.*
