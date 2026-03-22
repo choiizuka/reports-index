@@ -306,7 +306,10 @@ AIが戦争に組み込まれる現代において、
 
 - **[Recommended]** [Strategic-Research-Mentions-to-GAFAMX](https://github.com/choiizuka/Strategic-Research-Mentions-to-GAFAMX)  
   GAFAMXへの論文メンションと外部影響の検証
-
+  
+- **[Recommended]** [The-Mathematical-Modeling-of-SNS-Misery-Prevalence-2026]([https://github.com/choiizuka/Strategic-Research-Mentions-to-GAFAMX](https://github.com/choiizuka/The-Mathematical-Modeling-of-SNS-Misery-Prevalence-2026-/blob/main/README.md))  
+  SNSにおける不幸の蔓延の数理モデル化（2026）
+  
 ---
 
 ### 5. Love, Heart, and Resonance / 愛・心・共鳴
