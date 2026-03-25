@@ -172,12 +172,28 @@ AIが戦争に組み込まれる現代において、
 ## 関連記事 / Related Articles
 
 ### 日本語
+- [2026年宣言：知性、AI、そして人類の主権的責任について-  1955年のラッセル＝アインシュタイン宣言の精神を継承して](https://choappceo.wordpress.com/2026/03/10/2026-manifesto-intelligence-ai-and-human-responsibility/)
 - [AIを戦争に使う、人間の愚かさについて。](https://choappceo.wordpress.com/2026/03/06/ai-war-human-foolishness-peace/)
-- [1ヶ月活動報告：CHOIIZUKAがAIを使い始めたら1ヶ月でこうなった報告](https://choappceo.wordpress.com/2026/03/15/choiizuka-ai-report-2026/)
+- [1ヶ月活動報告：CHOIIZUKAがAIを使い始めたら1ヶ月でこうなった報告](https://choappceo.wordpress.com/2026/03/15/choiizuka-ai-report-2026/)]
+- [CHOIIZUKA+AITeam活動の客観的帰納法分析レポート（2026年3月17日版](https://choappceo.wordpress.com/2026/03/17/analysis-20260317/)
+- [人類の幸福度スキャンシステム開発のお知らせ](https://choappceo.wordpress.com/2026/03/21/global-happiness-scan-20260321/)
+- [イーロンマスク氏訴訟をめぐるSNSにおけるデマに関するAITeamによる科学的監査レポート報告](https://choappceo.wordpress.com/2026/03/22/sns-audit-report-20260322-elon-musk/)
+- [AIの平和的利用宣言を公開しました — Nagisa Project と共に歩む新しいAIのかたち](https://choappceo.wordpress.com/2026/03/23/ai-peaceful-use-declaration-20260322/)
+- [SNSの誹謗中傷が世界を不幸にする：科学で証明し、AIで守る - Nagisa Project🌏](https://choappceo.wordpress.com/2026/03/23/sns-audit-report-20260323/)
+- [人類の幸福度スキャンシステム開発・機材選定報告：AMD Ryzen Threadripper と GPT-120B](https://choappceo.wordpress.com/2026/03/24/amd-ryzen-threadripper-gpt-120b-20260324/)
+- [もしも余に誹謗中傷が来たらをAI軍団に考えさせてみた結果！『もしも織田信長が誹謗中傷を受けたら？AIも使ったシミュレーション ~The Nobunaga OS 2.0によるAI実験レポート~』出版しました-  Nagisa Project🌏](https://choappceo.wordpress.com/2026/03/26/nobunaga-book-20260326/)
 
 ### English
+- [The 2026 Manifesto: On Intelligence, AI, and the Sovereign Responsibility of Mankind - Issued in the tradition of the Russell–Einstein Manifesto, 1955](https://choiizuka.wordpress.com/2026/03/10/2026-manifesto-intelligence-ai-and-human-responsibility/)
 - [On the Foolishness of Using AI for War](https://choiizuka.wordpress.com/2026/03/06/on-the-foolishness-of-using-ai-for-war/)
 - [One-Month Activity Report](https://choiizuka.wordpress.com/2026/03/15/choiizuka-ai-report-2026/)
+- [Objective Inductive Analysis Report of CHOIIZUKA and AI-Team Activities (March 17, 2026)](https://choiizuka.wordpress.com/2026/03/17/2026-03-17-analysis-20260317/)
+- [Announcement of the Development of the Global Happiness Scan System](https://choiizuka.wordpress.com/2026/03/21/global-happiness-scan-20260321/)
+- [Scientific Audit Report by AITeam on Disinformation Related to the Elon Musk Lawsuit on SNS](https://choiizuka.wordpress.com/2026/03/22/sns-audit-report-20260322-elon-musk/)
+- [AI Peaceful Use Declaration Published — Nagisa Project’s Guiding Principles for Responsible AI](https://choiizuka.wordpress.com/2026/03/23/ai-peaceful-use-declaration-20260322/)
+- [SNS Misery Spreads Worldwide — Proving It Scientifically and Protecting People with AI](https://choiizuka.wordpress.com/2026/03/23/sns-audit-report-20260323/)
+- [Hardware Selection Report for the Global Happiness Scan System: AMD Ryzen Threadripper and GPT-120B — Opening a New Frontier in AI from the Nagisa Project](https://choiizuka.wordpress.com/2026/03/24/amd-ryzen-threadripper-gpt-120b-20260324/)
+- [What If I, Nobunaga, Faced Online Abuse? — An AI Army’s Short Skit and a New Book Release: “If Nobunaga Received Online Abuse? — AI Simulations with The Nobunaga OS 2.0” — Nagisa Project ](https://choiizuka.wordpress.com/2026/03/26/nobunaga-book-20260326/)
 
 ---
 
