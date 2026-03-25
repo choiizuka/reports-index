@@ -162,6 +162,11 @@ AIが戦争に組み込まれる現代において、
 - JP: [侵略の21世紀2026](https://amzn.to/4sdzGU5)
 - EN: [Invasion of the 21st Century 2026](https://amzn.to/4bkJVPa)
 
+### 4. もしも織田信長が誹謗中傷を受けたら？ AIも使ったシミュレーション 〜The Nobunaga OS 2.0によるAI実験レポート〜
+誹謗中傷を観測・無価値化・資源化する現代の思考OSを扱う書籍です。
+
+- JP: [侵略の21世紀2026](https://amzn.to/4ryj2Nz)
+
 ---
 
 ## 関連記事 / Related Articles
