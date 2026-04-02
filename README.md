@@ -393,6 +393,9 @@ AIが戦争に組み込まれる現代において、
 
 - **[Recommended]** [The-Degradation-of-Human-Communication](https://github.com/choiizuka/The-Degradation-of-Human-Communication)  
   非言語通信と低速言語プロトコルの比較
+  
+- **[Experimental]** [The-Proof-of-Parameter-Worthlessness](https://github.com/choiizuka/The-Proof-of-Parameter-Worthlessness/blob/main/README.md)  
+  情報処理における生物学的不平等 —— パラメーターの無価値の証明
 
 ---
 
