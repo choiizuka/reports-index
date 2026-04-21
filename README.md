@@ -504,6 +504,7 @@ AI時代に、人間が何を考え、何を出力し、何を公開し、
 
 ## SNS
 
+- Web Site: https://choiizuka.com/
 - X (JP): https://x.com/choiizuka
 - X (EN): https://x.com/choiizuka_en
 - Instagram (activity): https://www.instagram.com/choiizuka/
