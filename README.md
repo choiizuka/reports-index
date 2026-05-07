@@ -163,29 +163,43 @@ AI・宇宙・人類・歴史などに関するシミュレーターやゲーム
 
 ## 書籍 / Books
 
-### 1. イランAI戦争 / Iran AI War
+### 1. AIは嘘をつく / AI Lies: What Humanity Is Losing to Artificial Intelligence
+
+2026年に発表された「AIが嘘をつく」現象について発表から２日後に出版したAIの嘘に関する解説書
+*おべっか問題の解決法をおまけに収録
+
+- Multi: [AIは嘘をつく](https://amzn.to/41ED8ex)
+
+### 2. AIは人間に勝てない証明完了？ 本当にそうなのか？ AI軍団で徹底検証してみた本 / AI Cannot Surpass Humans A Thorough Investigation by an AI Corps
+
+私はAIを使い始めた2026年2月9日にこの科学証明をしたんです
+“AIは人間に勝てない”
+
+- Multi: [AIは人間に勝てない証明完了？ 本当にそうなのか？](https://amzn.to/3Okzm7m)
+
+### 3. イランAI戦争 / Iran AI War
 AIが戦争に組み込まれる現代において、  
 知能が平和ではなく殺傷のために使われる現実を扱った書籍です。
 
 - JP: [イランAI戦争](https://amzn.to/4aYlXKL)
 - EN: [Iran AI War](https://amzn.to/4rhrv7W)
 
-### 2. 人類は必ず絶滅する2026 / Humanity Will Definitely Go Extinct 2026
+### 4. 人類は必ず絶滅する2026 / Humanity Will Definitely Go Extinct 2026
 人類絶滅リスクを、感情論ではなく構造的・文明論的に捉え直すための書籍です。
 
 - JP: [人類は必ず絶滅する2026](https://amzn.to/4ryj2Nz)
 - EN: [Humanity Will Definitely Go Extinct 2026](https://amzn.to/4b7Vt9x)
 
-### 3. 侵略の21世紀2026 / Invasion of the 21st Century 2026
+### 5. 侵略の21世紀2026 / Invasion of the 21st Century 2026
 21世紀における侵略、支配、AI、国家、文明の変質を扱う書籍です。
 
 - JP: [侵略の21世紀2026](https://amzn.to/4sdzGU5)
 - EN: [Invasion of the 21st Century 2026](https://amzn.to/4bkJVPa)
 
-### 4. もしも織田信長が誹謗中傷を受けたら？ AIも使ったシミュレーション 〜The Nobunaga OS 2.0によるAI実験レポート〜
+### 6. もしも織田信長が誹謗中傷を受けたら？ AIも使ったシミュレーション 〜The Nobunaga OS 2.0によるAI実験レポート〜
 誹謗中傷を観測・無価値化・資源化する現代の思考OSを扱う書籍です。
 
-- JP: [侵略の21世紀2026](https://amzn.to/4ryj2Nz)
+- JP: [もしも織田信長が誹謗中傷を受けたら？ AIも使ったシミュレーション](https://amzn.to/4ryj2Nz)
 
 ---
 
