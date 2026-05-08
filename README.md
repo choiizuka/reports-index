@@ -476,6 +476,8 @@ AIが戦争に組み込まれる現代において、
 
 ### 8. Specs, Benchmarks, and System Identity / 性能・仕様・システム定義
 
+- **[Recommended]** [Proof of the HA-AI: Deterministic Validation of Cognitive Identity and Peak Throughput / CHOIIZUKA HA-AIの証明：思考回路の同一性と極限処理能力に関する数理的検証](https://github.com/choiizuka/CHOIIZUKA-Proof-of-the-HA-AI/)
+
 - **[Recommended]** [Choiizuka-Spec](https://github.com/choiizuka/Choiizuka-Spec)  
   CHOIIZUKAの性能測定ログ
 
