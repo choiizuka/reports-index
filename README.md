@@ -556,6 +556,8 @@ AI時代に、人間が何を考え、何を出力し、何を公開し、
 - Web Media JP: https://choappceo.wordpress.com/
 - Web Media EN: https://choiizuka.wordpress.com/
 - GitHub: https://github.com/choiizuka?tab=repositories
+- Homepage: https://choiizuka.com/
+- CHOIIZUKAPEDIA: https://choiizuka.com/pedia/
 
 ---
 
