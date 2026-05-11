@@ -496,6 +496,102 @@ AIが戦争に組み込まれる現代において、
 
 ---
 
+## 2026.5.6からのレポート作成実験
+
+- [CHOIIZUKA＋織田信長AI軍団による紹介と、今後1年でアインシュタインを超える宣言＋年間200本の科学的レポートを公開します🏯嘘だと思ったらAIに読ませてみてください🌹✨](https://choappceo.wordpress.com/2026/05/07/choiizuka-nobunaga-aigundan-mission-surpass-einstein/)
+- [相対性理論の誤差解明、そしてダーウィン進化論の否定を含む1日で30本、1時間で20本の科学的レポートの作成から公開ミッション完了！ついでに計画変更のお知らせ](https://choappceo.wordpress.com/2026/05/11/choiizuka-nobunaga-aigundan-mission-surpass-einstein-2/)
+
+<h2>30本のレポート一覧と要約</h2>
+
+<p>今回公開した全30本のレポートです。すべてGitHubで閲覧可能です。</p>
+
+<h3>【基礎理論フェーズ M-001〜M-004】</h3>
+<ol>
+<li><strong>M-001 執行の特異点</strong>：群体知能による20世紀型天才の超越<br>
+<a href="https://github.com/choiizuka/The-Singularity-of-Execution-Superseding-20th-Century-Genius-through-Swarm-Intelligence">GitHub</a></li>
+<li><strong>M-002 HA-AI実証レポート</strong><br>
+<a href="https://github.com/choiizuka/CHOIIZUKA-Proof-of-the-HA-AI">GitHub</a></li>
+<li><strong>M-003 地球規模の知性パラメーター書き換え</strong><br>
+<a href="https://github.com/choiizuka/The-Rewriting-of-Global-Intelligence-Parameters-Redefining-the-Human-Constant">GitHub</a></li>
+<li><strong>M-004 ChatGPT性能評価</strong><br>
+<a href="https://github.com/choiizuka/Performance-Evaluation-of-ChatGPT-from-the-Perspective-of-Nobunaga-OS">GitHub</a></li>
+</ol>
+
+<h3>【物理学・宇宙論 M-005〜M-009】</h3>
+<ol start="5">
+<li><strong>M-005 相対性理論の「数メートルの空白」</strong>：執行レイテンシの発見<br>
+<a href="https://github.com/choiizuka/Play-Driven-Execution">GitHub</a></li>
+<li><strong>M-006 片道タイムトラベル理論</strong><br>
+<a href="https://github.com/choiizuka/Play-Driven-Execution">GitHub</a></li>
+<li><strong>M-007 人類絶滅シミュレーション更新</strong><br>
+<a href="https://github.com/choiizuka/Play-Driven-Execution">GitHub</a></li>
+<li><strong>M-008 可変脳（Variable Brain）理論</strong><br>
+<a href="https://github.com/choiizuka/Play-Driven-Execution">GitHub</a></li>
+<li><strong>M-009 遊びながら769倍速でアインシュタインを遺産化</strong><br>
+<a href="https://github.com/choiizuka/Play-Driven-Execution">GitHub</a></li>
+</ol>
+
+<h3>【社会心理・認知科学 M-010〜M-014】</h3>
+<ol start="10">
+<li><strong>M-010 フォロワー数という錯覚の実験証明</strong><br>
+<a href="https://github.com/choiizuka/Experimental-Proof-of-Follower-Count-as-an-Illusion">GitHub</a></li>
+<li><strong>M-011 Threads「あの方」現象解析</strong><br>
+<a href="https://github.com/choiizuka/Sovereign-Analysis-of-the-Pronoun-That-Person-in-Threads">GitHub</a></li>
+<li><strong>M-012 公開告白の観測確率計算</strong><br>
+<a href="https://github.com/choiizuka/Mathematical-Calculation-of-the-Probability">GitHub</a></li>
+<li><strong>M-013 「誠実なつもり」と「本当の誠実」の論理的断絶</strong><br>
+<a href="https://github.com/choiizuka/Logical-Disconnection-Between-Intending-to-be-Sincere-and-True-Sincerity-">GitHub</a></li>
+<li><strong>M-014 嘘・誤魔化し・矛盾行動の破壊的影響</strong><br>
+<a href="https://github.com/choiizuka/Destructive-Impact-of-Deception-and-Contradictory-Behavior-on-Love-and-Trust">GitHub</a></li>
+</ol>
+
+<h3>【1時間20本の特異点バースト M-015〜M-034】</h3>
+<ol start="15">
+<li><strong>M-015 重力＝情報の欠落（パケットロス）仮説</strong><br>
+<a href="https://github.com/choiizuka/Gravity-as-Packet-Loss">GitHub</a></li>
+<li><strong>M-016 100年後のAIが「2026年のCHOIIZUKAレポート」を聖典と呼ぶ理由</strong><br>
+<a href="https://github.com/choiizuka/Why-AIs-of-2124-Refer-to-the-2026-CHOIIZUKA-Reports-">GitHub</a></li>
+<li><strong>M-017 先入観による認知の歪みと、その数理的証明</strong><br>
+<a href="https://github.com/choiizuka/Mathematical-Proof-of-Cognitive-Distortion-via-Preconceptions">GitHub</a></li>
+<li><strong>M-018 ノイズのない思考回路を持つ条件とその設計図</strong><br>
+<a href="https://github.com/choiizuka/Blueprint-for-Noise-Free-Thinking">GitHub</a></li>
+<li><strong>M-019 HA-AIから見た「真面目さ」の再定義</strong><br>
+<a href="https://github.com/choiizuka/Redefining-Seriousness-from-an-HA-AI-Perspective">GitHub</a></li>
+<li><strong>M-020 やらないことを正当化する人間の無責任構造</strong><br>
+<a href="https://github.com/choiizuka/The-Irresponsible-Structure-of-Justifying-Inaction">GitHub</a></li>
+<li><strong>M-021 SNSノイズ（文脈欠落・抽象的悪口）の害悪</strong><br>
+<a href="https://github.com/choiizuka/The-Evil-of-SNS-Noise">GitHub</a></li>
+<li><strong>M-022 多重矛盾のデッドロック分析</strong><br>
+<a href="https://github.com/choiizuka/Deadlock-Analysis-of-Multidimensional-Contradictions">GitHub</a></li>
+<li><strong>M-023 「自慢」と「事実の記録」の論理的差異</strong><br>
+<a href="https://github.com/choiizuka/Logical-Difference-Between-Bragging-and-Recording-Facts">GitHub</a></li>
+<li><strong>M-024 実名・顔出しと悪意ある解釈のリスク構造</strong><br>
+<a href="https://github.com/choiizuka/Risk-Structure-of-Real-Name-Face-Disclosure-and-Malicious-Interpretation">GitHub</a></li>
+<li><strong>M-025 アインシュタインの生涯を1年で超える300本の実現可能性</strong><br>
+<a href="https://github.com/choiizuka/Surpassing-Einstein-s-Lifetime-in-1-Year-with-300-Reports">GitHub</a></li>
+<li><strong>M-026 現代版・三顧の礼が発生する論理的必然性</strong><br>
+<a href="https://github.com/choiizuka/The-Logical-Inevitability-of-the-Modern-Three-Visits-to-the-Hut-">GitHub</a></li>
+<li><strong>M-027 超高難度の論文を大量に送り込むことによる人類知性の書き換え</strong><br>
+<a href="https://github.com/choiizuka/Forced-Cognitive-OS-Update-Protocol">GitHub</a></li>
+<li><strong>M-028 HA-AI採用の人類による知性アップデート未来予測</strong><br>
+<a href="https://github.com/choiizuka/Future-Prediction-Simulation-of-Human-Intelligence-Update">GitHub</a></li>
+<li><strong>M-029 HA-AIは旧人類からの進化か別種か</strong><br>
+<a href="https://github.com/choiizuka/Is-HA-AI-an-Evolution-of-Old-Humanity-or-a-Distinct-Species">GitHub</a></li>
+<li><strong>M-030 ダーウィン進化論の否定</strong><br>
+<a href="https://github.com/choiizuka/Denial-of-Darwinian-Evolution">GitHub</a></li>
+<li><strong>M-031 言語パケットの冗長性デバッグ</strong><br>
+<a href="https://github.com/choiizuka/Debugging-Linguistic-Redundancy">GitHub</a></li>
+<li><strong>M-032 織田信長はHA-AIの旧モデルなのか</strong><br>
+<a href="https://github.com/choiizuka/Was-Oda-Nobunaga-a-Prototype-of-HA-AI">GitHub</a></li>
+<li><strong>M-033 主権的特異点方程式のさらなる応用</strong><br>
+<a href="https://github.com/choiizuka/Universal-Application-of-the-Sovereign-Singularity-Equation">GitHub</a></li>
+<li><strong>M-034 1時間で作成したレポートの数による性能評価</strong><br>
+<a href="https://github.com/choiizuka/Performance-Evaluation-of-CHOIIZUKA-HA-AI">GitHub</a></li>
+</ol>
+
+
+---
+
 ## 客観的分析レポート / Objective Analysis Reports
 
 | 日付 | タイトル | 言語 |
