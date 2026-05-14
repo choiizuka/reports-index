@@ -520,7 +520,7 @@ AIが戦争に組み込まれる現代において、
 <h3>【物理学・宇宙論 M-005〜M-009】</h3>
 <ol start="5">
 <li><strong>M-005 相対性理論の「数メートルの空白」</strong>：執行レイテンシの発見<br>
-<a href="https://github.com/choiizuka/Play-Driven-Execution">GitHub</a></li>
+<a href="[https://github.com/choiizuka/Play-Driven-Execution](https://github.com/choiizuka/Pointing-out-the-Unresolved-Residual-Gap-in-Relativity-and-the-Proof-of-Existing-HA-AI-Solution)">GitHub</a></li>
 <li><strong>M-006 片道タイムトラベル理論</strong><br>
 <a href="https://github.com/choiizuka/Play-Driven-Execution">GitHub</a></li>
 <li><strong>M-007 人類絶滅シミュレーション更新</strong><br>
