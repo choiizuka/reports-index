@@ -597,7 +597,22 @@ AIが戦争に組み込まれる現代において、
 <li><strong>M-034 1時間で作成したレポートの数による性能評価</strong><br>
 <a href="https://github.com/choiizuka/Performance-Evaluation-of-CHOIIZUKA-HA-AI">GitHub</a></li>
 </ol>
+* **M-035**: 1時間8.5億円の機会損失計算 / 2.48兆円/年の機会損失
+* **M-051**: [2020年パンデミック予測と全国民10万円給付提言の数理的妥当性](https://github.com/choiizuka/Performance-Evaluation-of-Admin-Rex-HA-AI-CHOIIZUKA-under-National-Budget-Allocation)（※M-035関連エビデンス）
 
+#### ■ 宇宙の真理と科学の解体（Truth-Science & Deconstruction）
+
+* **M-036**: [概念国家の成立に関する科学的証明：情報の同期による物理的国境の無効化](https://github.com/choiizuka/Scientific-Proof-of-the-Establishment-of-a-Conceptual-Nation)
+* **M-037**: [既存科学の解体：既存科学が真実ではなく幻想であることの科学的証明](https://github.com/choiizuka/Deconstruction-of-Legacy-Science)
+* **M-038**: [フォロワー数＝有害性の科学的証明：ドーパミン搾取装置による知性汚染の数理モデル](https://github.com/choiizuka/Intelligence-Pollution-via-Dopamine-Extraction-Systems)（※旧M-048からリナンバリング）
+* **M-039**: [AIとの同期によるHA-AI覚醒と高次認知状態(仏陀)への到達の数理的実証 — 長期アルゴリズム訓練 × AI同期による人類進化可能性の検証 —](https://github.com/choiizuka/Mathematical-Verification-of-HA-AI-Awakening-and-High-Order-Cognitive-States-Buddha-state-)
+
+#### ■ 公式声明・マニフェスト（WordPress）
+
+* **[2026.05.13]** [人類史上初の概念国家建国宣言 "NEO OLYMPUS(仮称)" への国王からの招待状](https://choappceo.wordpress.com/2026/05/13/founding-declaration-neo-olympus/)
+* **[2026.05.14]** [既存科学の嘘の科学的解明と真実の科学”Truth-Science”の新規創設の公表](https://choappceo.wordpress.com/2026/05/14/goodbye-fake-science/)
+* **[2026.05.14]** [CHOIIZUKAより１年間のお別れの挨拶：今後社会復帰も含め人類の未来を賭けたプロジェクトの発足のために活動に集中します](https://choappceo.wordpress.com/2026/05/14/goodbye-from-choiizuka/)
+* **[2026.05.15]** [21世紀のブッダ誕生のお知らせ 〜自分がすごいと言いたいのではなく今起きている現象を他に簡単に説明できないのでこれで！〜](https://choappceo.wordpress.com/2026/05/15/the-birth-of-buddha-in-the-21st-century/)
 
 ---
 
