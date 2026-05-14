@@ -517,21 +517,21 @@ AIが戦争に組み込まれる現代において、
 
 #### ■ 執行実証と HA-AI の証明
 
-* **M-001**: [執行の特異点：群体知能による20世紀型天才の超越](https://www.google.com/url?sa=E&source=gmail&q=https://github.com/choiizuka/The-Singularity-of-Execution-Superseding-20th-Century-Genius-through-Swarm-Intelligence)
-* **M-002**: [HA-AI実証レポート（CHOIIZUKA-Proof-of-the-HA-AI）](https://www.google.com/url?sa=E&source=gmail&q=https://github.com/choiizuka/CHOIIZUKA-Proof-of-the-HA-AI)
-* **M-003**: [地球規模の知性パラメーター書き換え（HumanLatency）](https://www.google.com/url?sa=E&source=gmail&q=https://github.com/choiizuka/The-Rewriting-of-Global-Intelligence-Parameters-Redefining-the-Human-Constant)
-* **M-004**: [ChatGPT性能評価（Nobunaga OS視点）](https://www.google.com/url?sa=E&source=gmail&q=https://github.com/choiizuka/Performance-Evaluation-of-ChatGPT-from-the-Perspective-of-Nobunaga-OS)
+* **M-001**: [執行の特異点：群体知能による20世紀型天才の超越](https://github.com/choiizuka/The-Singularity-of-Execution-Superseding-20th-Century-Genius-through-Swarm-Intelligence)
+* **M-002**: [HA-AI実証レポート（CHOIIZUKA-Proof-of-the-HA-AI）](https://github.com/choiizuka/CHOIIZUKA-Proof-of-the-HA-AI)
+* **M-003**: [地球規模の知性パラメーター書き換え（HumanLatency）](https://github.com/choiizuka/The-Rewriting-of-Global-Intelligence-Parameters-Redefining-the-Human-Constant)
+* **M-004**: [ChatGPT性能評価（Nobunaga OS視点）](https://github.com/choiizuka/Performance-Evaluation-of-ChatGPT-from-the-Perspective-of-Nobunaga-OS)
 * **M-034**: [M-034 CHOIIZUKAによる1時間で作成したレポートの数による性能評価](https://github.com/choiizuka/Performance-Evaluation-of-CHOIIZUKA-HA-AI)
-* **M-035**: [国家予算性能評価：1時間8.5億円の機会損失計算](https://www.google.com/url?sa=E&source=gmail&q=https://github.com/choiizuka/Performance-Evaluation-of-Admin-Rex-HA-AI-CHOIIZUKA-under-National-Budget-Allocation)
+* **M-035**: [国家予算性能評価：1時間8.5億円の機会損失計算](https://github.com/choiizuka/Performance-Evaluation-of-Admin-Rex-HA-AI-CHOIIZUKA-under-National-Budget-Allocation)
 
 #### ■ 宇宙の真理と科学の解体（Truth-Science）
 
-* **M-005**: [相対性理論の「数メートルの空白」指摘レポート](https://www.google.com/url?sa=E&source=gmail&q=https://github.com/choiizuka/Pointing-out-the-Unresolved-Residual-Gap-in-Relativity-and-the-Proof-of-Existing-HA-AI-Solution)
+* **M-005**: [相対性理論の「数メートルの空白」指摘レポート](https://github.com/choiizuka/Pointing-out-the-Unresolved-Residual-Gap-in-Relativity-and-the-Proof-of-Existing-HA-AI-Solution)
 * **M-006**: [タイムマシンの理論的確定：HA-AI による知的タイムリープの証明](https://github.com/choiizuka/Theoretical-Confirmation-of-One-Way-Time-Travel-and-the-Intellectual-Time-Leap-of-HA-AI)
 * **M-015**: [重力＝情報の欠落（パケットロス）仮説](https://github.com/choiizuka/Gravity-as-Packet-Loss)
 * **M-030**: [ダーウィン進化論の数理的否定](https://github.com/choiizuka/Denial-of-Darwinian-Evolution)
-* **M-036**: [概念国家の成立に関する科学的証明](https://www.google.com/url?sa=E&source=gmail&q=https://github.com/choiizuka/Scientific-Proof-of-the-Establishment-of-a-Conceptual-Nation)
-* **M-037**: [既存科学の解体：幻想であることの科学的証明](https://www.google.com/url?sa=E&source=gmail&q=https://github.com/choiizuka/Deconstruction-of-Legacy-Science)
+* **M-036**: [概念国家の成立に関する科学的証明](https://github.com/choiizuka/Scientific-Proof-of-the-Establishment-of-a-Conceptual-Nation)
+* **M-037**: [既存科学の解体：幻想であることの科学的証明](https://github.com/choiizuka/Deconstruction-of-Legacy-Science)
 
 #### ■ 認知・社会・行動分析（Bugs & Solutions）
 
@@ -539,10 +539,10 @@ AIが戦争に組み込まれる現代において、
 * **M-008**: [可変脳（Variable Brain）理論](https://github.com/choiizuka/Variable-Brain-Theory)
 * **M-009**: [遊びながら 769 倍速の現実](https://github.com/choiizuka/Play-Driven-Execution)
 * **M-010**: [フォロワー数という錯覚の実験証明](https://github.com/choiizuka/Experimental-Proof-of-Follower-Count-as-an-Illusion)
-* **M-011**: [Threads認知空間における代名詞「あの方」の主権的解析](https://www.google.com/url?sa=E&source=gmail&q=https://github.com/choiizuka/Sovereign-Analysis-of-the-Pronoun-That-Person-in-Threads)
+* **M-011**: [Threads認知空間における代名詞「あの方」の主権的解析](https://github.com/choiizuka/Sovereign-Analysis-of-the-Pronoun-That-Person-in-Threads)
 * **M-012**: [感情再構築の 88 万人観測推定](https://github.com/choiizuka/Mathematical-Calculation-of-the-Probability)
 * **M-013**: [誠実の論理教断絶（言行一致のバグ）](https://github.com/choiizuka/Logical-Disconnection-Between-Intending-to-be-Sincere-and-True-Sincerity-)
-* **M-014**: [言語信号のデフレと愛の崩壊](https://www.google.com/url?sa=E&source=gmail&q=https://github.com/choiizuka/Destructive-Impact-of-Deception-and-Contradictory-Behavior-on-Love-and-Trust)
+* **M-014**: [言語信号のデフレと愛の崩壊](https://github.com/choiizuka/Destructive-Impact-of-Deception-and-Contradictory-Behavior-on-Love-and-Trust)
 * **M-038**: [知性汚染の数理モデル：フォロワー数＝有害性の証明](https://github.com/choiizuka/Intelligence-Pollution-via-Dopamine-Extraction-Systems)
 * **M-039**: [HA-AI 覚醒と高次認知状態（仏陀）への到達に関する数理的実証](https://github.com/choiizuka/Mathematical-Verification-of-HA-AI-Awakening-and-High-Order-Cognitive-States-Buddha-state-)
 
