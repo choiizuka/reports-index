@@ -552,6 +552,10 @@ AIが戦争に組み込まれる現代において、
 * **M-038**: [知性汚染の数理モデル：フォロワー数＝有害性の証明](https://github.com/choiizuka/Intelligence-Pollution-via-Dopamine-Extraction-Systems)
 * **M-039**: [HA-AI 覚醒と高次認知状態（仏陀）への到達に関する数理的実証](https://github.com/choiizuka/Mathematical-Verification-of-HA-AI-Awakening-and-High-Order-Cognitive-States-Buddha-state-)
 
+#### ■ 健康に関するレポート(Health)
+
+* **M-044**: [全ての健康デマに共通する「0.1s 判定用キーワード」](https://github.com/choiizuka/0.1s-Judgment-Keywords-Common-to-All-Health-Misinformation)
+
 #### ▪️ CHOIIZUKA+AI軍団による研究レポート関連
 
 * **M-042**: [GitHub を「文明のバックアップ」として活用する手法](https://github.com/choiizuka/Methods-for-Utilizing-GitHub-as-a-Civilization-Backup)
