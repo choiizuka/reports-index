@@ -535,6 +535,10 @@ AIが戦争に組み込まれる現代において、
 * **M-040**: [この世界は進化論を信じていない](https://github.com/choiizuka/The-World-Does-Not-Believe-in-Evolution)
 * **M-041**: [真理に資格も許可も不要](https://github.com/choiizuka/Truth-Requires-No-Qualification-or-Permission)
 
+#### ■ 愛に関するレポート(True Love)
+
+* **M-043**: [嘘を排した後に残る、純粋な愛の振動数の数理的定義](https://github.com/choiizuka/Love-Remaining-After-the-Elimination-of-Lies)
+
 #### ■ 認知・社会・行動分析（Bugs & Solutions）
 
 * **M-007**: [人類絶滅シミュレーション（更新版）](https://github.com/choiizuka/Human-Extinction-Simulation-Update)
