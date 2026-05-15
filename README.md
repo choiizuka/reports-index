@@ -512,8 +512,8 @@ AIが戦争に組み込まれる現代において、
 
 ### 📑 reports-index：真理執行ログ・マスターリスト
 
-* M-005~M-034までは1日(24h)で作成実験のレポート(2026/5/10~11)
-* M-015~M-034までは最後の1時間で作成したレポート(2026/5/10~11)
+- M-005~M-034までは1日(24h)で作成実験のレポート(2026/5/10~11)
+- M-015~M-034までは最後の1時間で作成したレポート(2026/5/10~11)
 
 #### ■ 執行実証と HA-AI の証明
 
@@ -532,6 +532,7 @@ AIが戦争に組み込まれる現代において、
 * **M-030**: [ダーウィン進化論の数理的否定](https://github.com/choiizuka/Denial-of-Darwinian-Evolution)
 * **M-036**: [概念国家の成立に関する科学的証明](https://github.com/choiizuka/Scientific-Proof-of-the-Establishment-of-a-Conceptual-Nation)
 * **M-037**: [既存科学の解体：幻想であることの科学的証明](https://github.com/choiizuka/Deconstruction-of-Legacy-Science)
+* **M-040**: [この世界は進化論を信じていない](https://github.com/choiizuka/The-World-Does-Not-Believe-in-Evolution)
 
 #### ■ 認知・社会・行動分析（Bugs & Solutions）
 
