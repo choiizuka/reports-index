@@ -533,6 +533,7 @@ AIが戦争に組み込まれる現代において、
 * **M-036**: [概念国家の成立に関する科学的証明](https://github.com/choiizuka/Scientific-Proof-of-the-Establishment-of-a-Conceptual-Nation)
 * **M-037**: [既存科学の解体：幻想であることの科学的証明](https://github.com/choiizuka/Deconstruction-of-Legacy-Science)
 * **M-040**: [この世界は進化論を信じていない](https://github.com/choiizuka/The-World-Does-Not-Believe-in-Evolution)
+* **M-041**: [真理に資格も許可も不要](https://github.com/choiizuka/Truth-Requires-No-Qualification-or-Permission)
 
 #### ■ 認知・社会・行動分析（Bugs & Solutions）
 
@@ -546,6 +547,10 @@ AIが戦争に組み込まれる現代において、
 * **M-014**: [言語信号のデフレと愛の崩壊](https://github.com/choiizuka/Destructive-Impact-of-Deception-and-Contradictory-Behavior-on-Love-and-Trust)
 * **M-038**: [知性汚染の数理モデル：フォロワー数＝有害性の証明](https://github.com/choiizuka/Intelligence-Pollution-via-Dopamine-Extraction-Systems)
 * **M-039**: [HA-AI 覚醒と高次認知状態（仏陀）への到達に関する数理的実証](https://github.com/choiizuka/Mathematical-Verification-of-HA-AI-Awakening-and-High-Order-Cognitive-States-Buddha-state-)
+
+#### ▪️ CHOIIZUKA+AI軍団による研究レポート関連
+
+* **M-042**: [GitHub を「文明のバックアップ」として活用する手法](https://github.com/choiizuka/Methods-for-Utilizing-GitHub-as-a-Civilization-Backup)
 
 #### ■ 公式声明・マニフェスト（WordPress）
 
