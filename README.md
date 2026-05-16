@@ -535,6 +535,7 @@ AIが戦争に組み込まれる現代において、
 * **M-040**: [この世界は進化論を信じていない](https://github.com/choiizuka/The-World-Does-Not-Believe-in-Evolution)
 * **M-041**: [真理に資格も許可も不要](https://github.com/choiizuka/Truth-Requires-No-Qualification-or-Permission)
 * **M-045**: [Truth-Science が提供する「真実という名の特効薬」](https://github.com/choiizuka/The-True-Medicine-of-Truth-Science)
+* **M-046**: [既存科学のドグマ化構造における論理デバッグ](https://github.com/choiizuka/The-True-Scientific-Manifesto)
 
 #### ■ 愛に関するレポート(True Love)
 
