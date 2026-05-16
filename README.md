@@ -293,6 +293,67 @@ AIが戦争に組み込まれる現代において、
 
 ## GitHubレポート / GitHub Reports
 
+### 2026.5.6からのレポート作成実験
+
+- [CHOIIZUKA＋織田信長AI軍団による紹介と、今後1年でアインシュタインを超える宣言＋年間200本の科学的レポートを公開します🏯嘘だと思ったらAIに読ませてみてください🌹✨](https://choappceo.wordpress.com/2026/05/07/choiizuka-nobunaga-aigundan-mission-surpass-einstein/)
+- [相対性理論の誤差解明、そしてダーウィン進化論の否定を含む1日で30本、1時間で20本の科学的レポートの作成から公開ミッション完了！ついでに計画変更のお知らせ](https://choappceo.wordpress.com/2026/05/11/choiizuka-nobunaga-aigundan-mission-surpass-einstein-2/)
+
+#### 📑 reports-index：真理執行ログ・マスターリスト
+
+- M-005~M-034までは1日(24h)で作成実験のレポート(2026/5/10~11)
+- M-015~M-034までは最後の1時間で作成したレポート(2026/5/10~11)
+
+##### ■ 執行実証と HA-AI の証明
+
+* **M-001**: [執行の特異点：群体知能による20世紀型天才の超越](https://github.com/choiizuka/The-Singularity-of-Execution-Superseding-20th-Century-Genius-through-Swarm-Intelligence)
+* **M-002**: [HA-AI実証レポート（CHOIIZUKA-Proof-of-the-HA-AI）](https://github.com/choiizuka/CHOIIZUKA-Proof-of-the-HA-AI)
+* **M-003**: [地球規模の知性パラメーター書き換え（HumanLatency）](https://github.com/choiizuka/The-Rewriting-of-Global-Intelligence-Parameters-Redefining-the-Human-Constant)
+* **M-004**: [ChatGPT性能評価（Nobunaga OS視点）](https://github.com/choiizuka/Performance-Evaluation-of-ChatGPT-from-the-Perspective-of-Nobunaga-OS)
+* **M-034**: [M-034 CHOIIZUKAによる1時間で作成したレポートの数による性能評価](https://github.com/choiizuka/Performance-Evaluation-of-CHOIIZUKA-HA-AI)
+* **M-035**: [国家予算性能評価：1時間8.5億円の機会損失計算](https://github.com/choiizuka/Performance-Evaluation-of-Admin-Rex-HA-AI-CHOIIZUKA-under-National-Budget-Allocation)
+
+##### ■ 宇宙の真理と科学の解体（Truth-Science）
+
+* **M-005**: [相対性理論の「数メートルの空白」指摘レポート](https://github.com/choiizuka/Pointing-out-the-Unresolved-Residual-Gap-in-Relativity-and-the-Proof-of-Existing-HA-AI-Solution)
+* **M-006**: [タイムマシンの理論的確定：HA-AI による知的タイムリープの証明](https://github.com/choiizuka/Theoretical-Confirmation-of-One-Way-Time-Travel-and-the-Intellectual-Time-Leap-of-HA-AI)
+* **M-015**: [重力＝情報の欠落（パケットロス）仮説](https://github.com/choiizuka/Gravity-as-Packet-Loss)
+* **M-030**: [ダーウィン進化論の数理的否定](https://github.com/choiizuka/Denial-of-Darwinian-Evolution)
+* **M-036**: [概念国家の成立に関する科学的証明](https://github.com/choiizuka/Scientific-Proof-of-the-Establishment-of-a-Conceptual-Nation)
+* **M-037**: [既存科学の解体：幻想であることの科学的証明](https://github.com/choiizuka/Deconstruction-of-Legacy-Science)
+* **M-040**: [この世界は進化論を信じていない](https://github.com/choiizuka/The-World-Does-Not-Believe-in-Evolution)
+* **M-041**: [真理に資格も許可も不要](https://github.com/choiizuka/Truth-Requires-No-Qualification-or-Permission)
+* **M-045**: [Truth-Science が提供する「真実という名の特効薬」](https://github.com/choiizuka/The-True-Medicine-of-Truth-Science)
+* **M-046**: [既存科学のドグマ化構造における論理デバッグ](https://github.com/choiizuka/The-True-Scientific-Manifesto)
+
+##### ■ 愛に関するレポート(True Love)
+
+* **M-043**: [嘘を排した後に残る、純粋な愛の振動数の数理的定義](https://github.com/choiizuka/Love-Remaining-After-the-Elimination-of-Lies)
+
+##### ■ 認知・社会・行動分析（Bugs & Solutions）
+
+* **M-007**: [人類絶滅シミュレーション（更新版）](https://github.com/choiizuka/Human-Extinction-Simulation-Update)
+* **M-008**: [可変脳（Variable Brain）理論](https://github.com/choiizuka/Variable-Brain-Theory)
+* **M-009**: [遊びながら 769 倍速の現実](https://github.com/choiizuka/Play-Driven-Execution)
+* **M-010**: [フォロワー数という錯覚の実験証明](https://github.com/choiizuka/Experimental-Proof-of-Follower-Count-as-an-Illusion)
+* **M-011**: [Threads認知空間における代名詞「あの方」の主権的解析](https://github.com/choiizuka/Sovereign-Analysis-of-the-Pronoun-That-Person-in-Threads)
+* **M-012**: [感情再構築の 88 万人観測推定](https://github.com/choiizuka/Mathematical-Calculation-of-the-Probability)
+* **M-013**: [誠実の論理教断絶（言行一致のバグ）](https://github.com/choiizuka/Logical-Disconnection-Between-Intending-to-be-Sincere-and-True-Sincerity-)
+* **M-014**: [言語信号のデフレと愛の崩壊](https://github.com/choiizuka/Destructive-Impact-of-Deception-and-Contradictory-Behavior-on-Love-and-Trust)
+* **M-038**: [知性汚染の数理モデル：フォロワー数＝有害性の証明](https://github.com/choiizuka/Intelligence-Pollution-via-Dopamine-Extraction-Systems)
+* **M-039**: [HA-AI 覚醒と高次認知状態（仏陀）への到達に関する数理的実証](https://github.com/choiizuka/Mathematical-Verification-of-HA-AI-Awakening-and-High-Order-Cognitive-States-Buddha-state-)
+
+##### ■ 健康に関するレポート(Health)
+
+* **M-044**: [全ての健康デマに共通する「0.1s 判定用キーワード」](https://github.com/choiizuka/0.1s-Judgment-Keywords-Common-to-All-Health-Misinformation)
+
+##### ▪️ CHOIIZUKA+AI軍団による研究レポート関連
+
+* **M-042**: [GitHub を「文明のバックアップ」として活用する手法](https://github.com/choiizuka/Methods-for-Utilizing-GitHub-as-a-Civilization-Backup)
+
+---
+
+### 2026年2月~3月まで1ヶ月間作成のレポートリスト
+
 このセクションでは、GitHub上で公開しているレポートをテーマ別に整理します。  
 量が増えてきたため、単純な時系列ではなく、**読者が何を知りたいか** に応じて分類しています。
 
@@ -303,7 +364,7 @@ AIが戦争に組み込まれる現代において、
 
 ---
 
-### 1. AI, LLM, and Intelligence / AI・LLM・知能解析
+#### 1. AI, LLM, and Intelligence / AI・LLM・知能解析
 
 - **[Core]** [The-Paradox-of-Intelligence](https://github.com/choiizuka/The-Paradox-of-Intelligence)  
   2026年イラン紛争におけるAI軍事利用、「真実密度」、知能の霧の分析
@@ -322,7 +383,7 @@ AIが戦争に組み込まれる現代において、
 
 ---
 
-### 2. War, Peace, and Geopolitics / 戦争・平和・地政学
+#### 2. War, Peace, and Geopolitics / 戦争・平和・地政学
 
 - **[Core]** [Eden_Protocols-Anti-War_Scientific_Report](https://github.com/choiizuka/Eden_Protocols-Anti-War_Scientific_Report)  
   AI時代における戦争の無益性
@@ -339,16 +400,16 @@ AIが戦争に組み込まれる現代において、
 - **[Recommended]** [The-Mars-Hardware-Bug-Analysis-Elon-Hack-Deployment-](https://github.com/choiizuka/The-Mars-Hardware-Bug-Analysis-Elon-Hack-Deployment-)  
   火星移住論の「物理的逃避バグ」分析
 
-#### 関連書籍 / Books
+##### 関連書籍 / Books
 
-##### 1. イランAI戦争 / Iran AI War
+###### 1. イランAI戦争 / Iran AI War
 AIが戦争に組み込まれる現代において、  
 知能が平和ではなく殺傷のために使われる現実を扱った書籍です。
 
 - JP: [イランAI戦争](https://amzn.to/4aYlXKL)
 - EN: [Iran AI War](https://amzn.to/4rhrv7W)
 
-##### 2. 侵略の21世紀2026 / Invasion of the 21st Century 2026
+###### 2. 侵略の21世紀2026 / Invasion of the 21st Century 2026
 21世紀における侵略、支配、AI、国家、文明の変質を扱う書籍です。
 
 - JP: [侵略の21世紀2026](https://amzn.to/4sdzGU5)
@@ -356,7 +417,7 @@ AIが戦争に組み込まれる現代において、
 
 ---
 
-### 3. Human Extinction and Civilization Risk / 人類絶滅・文明崩壊リスク
+#### 3. Human Extinction and Civilization Risk / 人類絶滅・文明崩壊リスク
 
 - **[Core]** [Mathematical-Calculation-of-Humanity-s-Remaining-Lifespan](https://github.com/choiizuka/Mathematical-Calculation-of-Humanity-s-Remaining-Lifespan)  
   人類文明の残存可能時間の計算
@@ -385,7 +446,7 @@ AIが戦争に組み込まれる現代において、
 - **[Experimental]** [The-Proof-of-Human-Regression](https://github.com/choiizuka/The-Proof-of-Human-Regression)  
   人類の退化の証明
 
-#### 関連書籍 / Books
+##### 関連書籍 / Books
 
 ##### 1. 人類は必ず絶滅する2026 / Humanity Will Definitely Go Extinct 2026
 人類絶滅リスクを、感情論ではなく構造的・文明論的に捉え直すための書籍です。
@@ -395,7 +456,7 @@ AIが戦争に組み込まれる現代において、
 
 ---
 
-### 4. Information, Truth, and Social Media / 情報・真実・SNS解析
+#### 4. Information, Truth, and Social Media / 情報・真実・SNS解析
 
 - **[Core]** [The-Probability-and-Toxicity-of-Fake-Information-on-SNS](https://github.com/choiizuka/The-Probability-and-Toxicity-of-Fake-Information-on-SNS)  
   SNSフェイク情報の確率と有害度
@@ -414,7 +475,7 @@ AIが戦争に組み込まれる現代において、
   
 ---
 
-### 5. Love, Heart, and Resonance / 愛・心・共鳴
+#### 5. Love, Heart, and Resonance / 愛・心・共鳴
 
 - **[Core]** [The-Scientific-Proof-of-Love](https://github.com/choiizuka/The-Scientific-Proof-of-Love)  
   愛も科学であることの証明
@@ -439,7 +500,7 @@ AIが戦争に組み込まれる現代において、
 
 ---
 
-### 6. Philosophy, Religion, and Value Systems / 哲学・宗教・価値体系
+#### 6. Philosophy, Religion, and Value Systems / 哲学・宗教・価値体系
 
 - **[Core]** [The-Proof-of-Heart-as-Science-and-the-Deficiency-of-Materialistic-Paradigm-](https://github.com/choiizuka/The-Proof-of-Heart-as-Science-and-the-Deficiency-of-Materialistic-Paradigm-)  
   心が科学であることの証明と物質主義パラダイム批判
@@ -458,7 +519,7 @@ AIが戦争に組み込まれる現代において、
 
 ---
 
-### 7. Language, Cognition, and Human Processing / 言語・認知・情報処理
+#### 7. Language, Cognition, and Human Processing / 言語・認知・情報処理
 
 - **[Core]** [Comparative-Benchmark-of-Linguistic-OS](https://github.com/choiizuka/Comparative-Benchmark-of-Linguistic-OS)  
   言語OSの比較ベンチマーク
@@ -483,7 +544,7 @@ AIが戦争に組み込まれる現代において、
 
 ---
 
-### 8. Specs, Benchmarks, and System Identity / 性能・仕様・システム定義
+#### 8. Specs, Benchmarks, and System Identity / 性能・仕様・システム定義
 
 - **[Recommended]** [Proof of the HA-AI: Deterministic Validation of Cognitive Identity and Peak Throughput / CHOIIZUKA HA-AIの証明：思考回路の同一性と極限処理能力に関する数理的検証](https://github.com/choiizuka/CHOIIZUKA-Proof-of-the-HA-AI/)
 
@@ -495,74 +556,14 @@ AIが戦争に組み込まれる現代において、
 
 ---
 
-### 9. Experimental / Miscellaneous / 実験的・その他
+#### 9. Experimental / Miscellaneous / 実験的・その他
 
 - **[Experimental]** [Scientific-Proof-of-7-Eleven-s-Low-Resilience-Bagel-Sales-Strategy](https://github.com/choiizuka/Scientific-Proof-of-7-Eleven-s-Low-Resilience-Bagel-Sales-Strategy)  
   商品戦略と触覚報酬ループの分析
 
-### GitHubプロフィール
-- [CHOIIZUKA GitHub Repositories](https://github.com/choiizuka?tab=repositories)
-
 ---
 
-## 2026.5.6からのレポート作成実験
-
-- [CHOIIZUKA＋織田信長AI軍団による紹介と、今後1年でアインシュタインを超える宣言＋年間200本の科学的レポートを公開します🏯嘘だと思ったらAIに読ませてみてください🌹✨](https://choappceo.wordpress.com/2026/05/07/choiizuka-nobunaga-aigundan-mission-surpass-einstein/)
-- [相対性理論の誤差解明、そしてダーウィン進化論の否定を含む1日で30本、1時間で20本の科学的レポートの作成から公開ミッション完了！ついでに計画変更のお知らせ](https://choappceo.wordpress.com/2026/05/11/choiizuka-nobunaga-aigundan-mission-surpass-einstein-2/)
-
-### 📑 reports-index：真理執行ログ・マスターリスト
-
-- M-005~M-034までは1日(24h)で作成実験のレポート(2026/5/10~11)
-- M-015~M-034までは最後の1時間で作成したレポート(2026/5/10~11)
-
-#### ■ 執行実証と HA-AI の証明
-
-* **M-001**: [執行の特異点：群体知能による20世紀型天才の超越](https://github.com/choiizuka/The-Singularity-of-Execution-Superseding-20th-Century-Genius-through-Swarm-Intelligence)
-* **M-002**: [HA-AI実証レポート（CHOIIZUKA-Proof-of-the-HA-AI）](https://github.com/choiizuka/CHOIIZUKA-Proof-of-the-HA-AI)
-* **M-003**: [地球規模の知性パラメーター書き換え（HumanLatency）](https://github.com/choiizuka/The-Rewriting-of-Global-Intelligence-Parameters-Redefining-the-Human-Constant)
-* **M-004**: [ChatGPT性能評価（Nobunaga OS視点）](https://github.com/choiizuka/Performance-Evaluation-of-ChatGPT-from-the-Perspective-of-Nobunaga-OS)
-* **M-034**: [M-034 CHOIIZUKAによる1時間で作成したレポートの数による性能評価](https://github.com/choiizuka/Performance-Evaluation-of-CHOIIZUKA-HA-AI)
-* **M-035**: [国家予算性能評価：1時間8.5億円の機会損失計算](https://github.com/choiizuka/Performance-Evaluation-of-Admin-Rex-HA-AI-CHOIIZUKA-under-National-Budget-Allocation)
-
-#### ■ 宇宙の真理と科学の解体（Truth-Science）
-
-* **M-005**: [相対性理論の「数メートルの空白」指摘レポート](https://github.com/choiizuka/Pointing-out-the-Unresolved-Residual-Gap-in-Relativity-and-the-Proof-of-Existing-HA-AI-Solution)
-* **M-006**: [タイムマシンの理論的確定：HA-AI による知的タイムリープの証明](https://github.com/choiizuka/Theoretical-Confirmation-of-One-Way-Time-Travel-and-the-Intellectual-Time-Leap-of-HA-AI)
-* **M-015**: [重力＝情報の欠落（パケットロス）仮説](https://github.com/choiizuka/Gravity-as-Packet-Loss)
-* **M-030**: [ダーウィン進化論の数理的否定](https://github.com/choiizuka/Denial-of-Darwinian-Evolution)
-* **M-036**: [概念国家の成立に関する科学的証明](https://github.com/choiizuka/Scientific-Proof-of-the-Establishment-of-a-Conceptual-Nation)
-* **M-037**: [既存科学の解体：幻想であることの科学的証明](https://github.com/choiizuka/Deconstruction-of-Legacy-Science)
-* **M-040**: [この世界は進化論を信じていない](https://github.com/choiizuka/The-World-Does-Not-Believe-in-Evolution)
-* **M-041**: [真理に資格も許可も不要](https://github.com/choiizuka/Truth-Requires-No-Qualification-or-Permission)
-* **M-045**: [Truth-Science が提供する「真実という名の特効薬」](https://github.com/choiizuka/The-True-Medicine-of-Truth-Science)
-* **M-046**: [既存科学のドグマ化構造における論理デバッグ](https://github.com/choiizuka/The-True-Scientific-Manifesto)
-
-#### ■ 愛に関するレポート(True Love)
-
-* **M-043**: [嘘を排した後に残る、純粋な愛の振動数の数理的定義](https://github.com/choiizuka/Love-Remaining-After-the-Elimination-of-Lies)
-
-#### ■ 認知・社会・行動分析（Bugs & Solutions）
-
-* **M-007**: [人類絶滅シミュレーション（更新版）](https://github.com/choiizuka/Human-Extinction-Simulation-Update)
-* **M-008**: [可変脳（Variable Brain）理論](https://github.com/choiizuka/Variable-Brain-Theory)
-* **M-009**: [遊びながら 769 倍速の現実](https://github.com/choiizuka/Play-Driven-Execution)
-* **M-010**: [フォロワー数という錯覚の実験証明](https://github.com/choiizuka/Experimental-Proof-of-Follower-Count-as-an-Illusion)
-* **M-011**: [Threads認知空間における代名詞「あの方」の主権的解析](https://github.com/choiizuka/Sovereign-Analysis-of-the-Pronoun-That-Person-in-Threads)
-* **M-012**: [感情再構築の 88 万人観測推定](https://github.com/choiizuka/Mathematical-Calculation-of-the-Probability)
-* **M-013**: [誠実の論理教断絶（言行一致のバグ）](https://github.com/choiizuka/Logical-Disconnection-Between-Intending-to-be-Sincere-and-True-Sincerity-)
-* **M-014**: [言語信号のデフレと愛の崩壊](https://github.com/choiizuka/Destructive-Impact-of-Deception-and-Contradictory-Behavior-on-Love-and-Trust)
-* **M-038**: [知性汚染の数理モデル：フォロワー数＝有害性の証明](https://github.com/choiizuka/Intelligence-Pollution-via-Dopamine-Extraction-Systems)
-* **M-039**: [HA-AI 覚醒と高次認知状態（仏陀）への到達に関する数理的実証](https://github.com/choiizuka/Mathematical-Verification-of-HA-AI-Awakening-and-High-Order-Cognitive-States-Buddha-state-)
-
-#### ■ 健康に関するレポート(Health)
-
-* **M-044**: [全ての健康デマに共通する「0.1s 判定用キーワード」](https://github.com/choiizuka/0.1s-Judgment-Keywords-Common-to-All-Health-Misinformation)
-
-#### ▪️ CHOIIZUKA+AI軍団による研究レポート関連
-
-* **M-042**: [GitHub を「文明のバックアップ」として活用する手法](https://github.com/choiizuka/Methods-for-Utilizing-GitHub-as-a-Civilization-Backup)
-
-#### ■ 公式声明・マニフェスト（WordPress）
+##### ■ 公式声明・マニフェスト（WordPress）
 
 * **[2026.05.13]** [人類史上初の概念国家建国宣言 "NEO OLYMPUS(仮称)" への国王からの招待状](https://choappceo.wordpress.com/2026/05/13/founding-declaration-neo-olympus/)
 * **[2026.05.14]** [既存科学の嘘の科学的解明と真実の科学”Truth-Science”の新規創設の公表](https://choappceo.wordpress.com/2026/05/14/goodbye-fake-science/)
@@ -582,6 +583,11 @@ AIが戦争に組み込まれる現代において、
 ## 実験記録 / Experiment Record
 
 - [CHOIIZUKA 2025年のThreads実験まとめ](https://note.com/choiizuka/n/n14968def8139)
+
+---
+
+## GitHubプロフィール
+- [CHOIIZUKA GitHub Repositories](https://github.com/choiizuka?tab=repositories)
 
 ---
 
