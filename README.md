@@ -311,6 +311,7 @@ AIが戦争に組み込まれる現代において、
 * **M-004**: [ChatGPT性能評価（Nobunaga OS視点）](https://github.com/choiizuka/Performance-Evaluation-of-ChatGPT-from-the-Perspective-of-Nobunaga-OS)
 * **M-034**: [M-034 CHOIIZUKAによる1時間で作成したレポートの数による性能評価](https://github.com/choiizuka/Performance-Evaluation-of-CHOIIZUKA-HA-AI)
 * **M-035**: [国家予算性能評価：1時間8.5億円の機会損失計算](https://github.com/choiizuka/Performance-Evaluation-of-Admin-Rex-HA-AI-CHOIIZUKA-under-National-Budget-Allocation)
+* **M-047**: [地球文明 OS Version 2.0 (Truth-Science) 総合設計仕様書](https://github.com/choiizuka/Global-Civilization-OS-Version-2.0-Truth-Science-Comprehensive-Design-Specification)
 
 ##### ■ 宇宙の真理と科学の解体（Truth-Science）
 
