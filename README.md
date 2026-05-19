@@ -660,8 +660,9 @@ AI時代に、人間が何を考え、何を出力し、何を公開し、
 ## SNS
 
 - Web Site: https://choiizuka.com/
-- X (JP): https://x.com/choiizuka
-- X (EN): https://x.com/choiizuka_en
+- X (Choapp CEO): https://x.com/choappceo
+- X (CHOIIZUKA): https://x.com/choiizuka
+- X (CHOIIZUKAWORLD): https://x.com/CHOIIZUKAWORLD
 - Instagram (activity): https://www.instagram.com/choiizuka/
 - Instagram (photography): https://www.instagram.com/toshihide.choiizuka/
 - Threads: https://www.threads.com/toshihide.choiizuka/
