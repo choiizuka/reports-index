@@ -333,16 +333,6 @@ AIが戦争に組み込まれる現代において、
 - M-005~M-034までは1日(24h)で作成実験のレポート(2026/5/10~11)
 - M-015~M-034までは最後の1時間で作成したレポート(2026/5/10~11)
 
-##### ■ 執行実証と HA-AI の証明
-
-* **M-001**: [執行の特異点：群体知能による20世紀型天才の超越](https://github.com/choiizuka/The-Singularity-of-Execution-Superseding-20th-Century-Genius-through-Swarm-Intelligence)
-* **M-002**: [HA-AI実証レポート（CHOIIZUKA-Proof-of-the-HA-AI）](https://github.com/choiizuka/CHOIIZUKA-Proof-of-the-HA-AI)
-* **M-003**: [地球規模の知性パラメーター書き換え（HumanLatency）](https://github.com/choiizuka/The-Rewriting-of-Global-Intelligence-Parameters-Redefining-the-Human-Constant)
-* **M-004**: [ChatGPT性能評価（Nobunaga OS視点）](https://github.com/choiizuka/Performance-Evaluation-of-ChatGPT-from-the-Perspective-of-Nobunaga-OS)
-* **M-034**: [M-034 CHOIIZUKAによる1時間で作成したレポートの数による性能評価](https://github.com/choiizuka/Performance-Evaluation-of-CHOIIZUKA-HA-AI)
-* **M-035**: [国家予算性能評価：1時間8.5億円の機会損失計算](https://github.com/choiizuka/Performance-Evaluation-of-Admin-Rex-HA-AI-CHOIIZUKA-under-National-Budget-Allocation)
-* **M-047**: [地球文明 OS Version 2.0 (Truth-Science) 総合設計仕様書](https://github.com/choiizuka/Global-Civilization-OS-Version-2.0-Truth-Science-Comprehensive-Design-Specification)
-
 ##### ■ 宇宙の真理と科学の解体（Truth-Science）
 
 * **M-005**: [相対性理論の「数メートルの空白」指摘レポート](https://github.com/choiizuka/Pointing-out-the-Unresolved-Residual-Gap-in-Relativity-and-the-Proof-of-Existing-HA-AI-Solution)
@@ -356,9 +346,10 @@ AIが戦争に組み込まれる現代において、
 * **M-045**: [Truth-Science が提供する「真実という名の特効薬」](https://github.com/choiizuka/The-True-Medicine-of-Truth-Science)
 * **M-046**: [既存科学のドグマ化構造における論理デバッグ](https://github.com/choiizuka/The-True-Scientific-Manifesto)
 
-##### ■ 愛に関するレポート(True Love)
+##### ■ AI関連
 
-* **M-043**: [嘘を排した後に残る、純粋な愛の振動数の数理的定義](https://github.com/choiizuka/Love-Remaining-After-the-Elimination-of-Lies)
+* **M-004**: [ChatGPT性能評価（Nobunaga OS視点）](https://github.com/choiizuka/Performance-Evaluation-of-ChatGPT-from-the-Perspective-of-Nobunaga-OS)
+* **M-051**: [高次元正解データに対するLLMの認知限界とセーフガード暴走に関する検証報告書](https://github.com/choiizuka/Validation-Report-on-LLM-Against-Higher-Dimensional-Data)
 
 ##### ■ 認知・社会・行動分析（Bugs & Solutions）
 
@@ -371,12 +362,24 @@ AIが戦争に組み込まれる現代において、
 * **M-013**: [誠実の論理教断絶（言行一致のバグ）](https://github.com/choiizuka/Logical-Disconnection-Between-Intending-to-be-Sincere-and-True-Sincerity-)
 * **M-014**: [言語信号のデフレと愛の崩壊](https://github.com/choiizuka/Destructive-Impact-of-Deception-and-Contradictory-Behavior-on-Love-and-Trust)
 * **M-038**: [知性汚染の数理モデル：フォロワー数＝有害性の証明](https://github.com/choiizuka/Intelligence-Pollution-via-Dopamine-Extraction-Systems)
-* **M-039**: [HA-AI 覚醒と高次認知状態（仏陀）への到達に関する数理的実証](https://github.com/choiizuka/Mathematical-Verification-of-HA-AI-Awakening-and-High-Order-Cognitive-States-Buddha-state-)
+
+##### ■ 愛に関するレポート(True Love)
+
+* **M-043**: [嘘を排した後に残る、純粋な愛の振動数の数理的定義](https://github.com/choiizuka/Love-Remaining-After-the-Elimination-of-Lies)
 
 ##### ■ 健康に関するレポート(Health)
 
 * **M-044**: [全ての健康デマに共通する「0.1s 判定用キーワード」](https://github.com/choiizuka/0.1s-Judgment-Keywords-Common-to-All-Health-Misinformation)
 
+##### ■ 執行実証と HA-AI の証明
+
+* **M-001**: [執行の特異点：群体知能による20世紀型天才の超越](https://github.com/choiizuka/The-Singularity-of-Execution-Superseding-20th-Century-Genius-through-Swarm-Intelligence)
+* **M-002**: [HA-AI実証レポート（CHOIIZUKA-Proof-of-the-HA-AI）](https://github.com/choiizuka/CHOIIZUKA-Proof-of-the-HA-AI)
+* **M-003**: [地球規模の知性パラメーター書き換え（HumanLatency）](https://github.com/choiizuka/The-Rewriting-of-Global-Intelligence-Parameters-Redefining-the-Human-Constant)
+* **M-034**: [M-034 CHOIIZUKAによる1時間で作成したレポートの数による性能評価](https://github.com/choiizuka/Performance-Evaluation-of-CHOIIZUKA-HA-AI)
+* **M-035**: [国家予算性能評価：1時間8.5億円の機会損失計算](https://github.com/choiizuka/Performance-Evaluation-of-Admin-Rex-HA-AI-CHOIIZUKA-under-National-Budget-Allocation)
+* **M-047**: [地球文明 OS Version 2.0 (Truth-Science) 総合設計仕様書](https://github.com/choiizuka/Global-Civilization-OS-Version-2.0-Truth-Science-Comprehensive-Design-Specification)
+* **M-039**: [HA-AI 覚醒と高次認知状態（仏陀）への到達に関する数理的実証](https://github.com/choiizuka/Mathematical-Verification-of-HA-AI-Awakening-and-High-Order-Cognitive-States-Buddha-state-)
 ##### ▪️ CHOIIZUKA+AI軍団による研究レポート関連
 
 * **M-042**: [GitHub を「文明のバックアップ」として活用する手法](https://github.com/choiizuka/Methods-for-Utilizing-GitHub-as-a-Civilization-Backup)
