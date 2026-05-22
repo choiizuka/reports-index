@@ -366,6 +366,7 @@ AIが戦争に組み込まれる現代において、
 ##### ■ 愛に関するレポート(True Love)
 
 * **M-043**: [嘘を排した後に残る、純粋な愛の振動数の数理的定義](https://github.com/choiizuka/Love-Remaining-After-the-Elimination-of-Lies)
+* **M-049**: [人生って正しいだけが全てでは無い気がする 特にお互いの心の声の問題](https://github.com/choiizuka/Human-Happiness-and-Emotional-Vector-Computation)
 
 ##### ■ 健康に関するレポート(Health)
 
