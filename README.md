@@ -368,6 +368,10 @@ AIが戦争に組み込まれる現代において、
 * **M-043**: [嘘を排した後に残る、純粋な愛の振動数の数理的定義](https://github.com/choiizuka/Love-Remaining-After-the-Elimination-of-Lies)
 * **M-049**: [人生って正しいだけが全てでは無い気がする 特にお互いの心の声の問題](https://github.com/choiizuka/Human-Happiness-and-Emotional-Vector-Computation)
 
+##### ■ 教育に関するレポート(Education)
+
+* **M-052**: [校長先生の話はつまらないが面白くしたらダメというルールはない🤣](https://github.com/choiizuka/There-Is-No-Rule-Prohibiting-Principals-from-Making-Their-Speeches-Interesting)
+
 ##### ■ 健康に関するレポート(Health)
 
 * **M-044**: [全ての健康デマに共通する「0.1s 判定用キーワード」](https://github.com/choiizuka/0.1s-Judgment-Keywords-Common-to-All-Health-Misinformation)
