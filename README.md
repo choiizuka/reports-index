@@ -20,7 +20,7 @@ Google/Microsoft社の検索AIなどによる複数のAIによる自動の出力
 
 *現在詳細確認中です
 
-[全世界の皆様への警鐘：AIによる人為的設定に基づく虚偽回答について甚大な迷惑を被っている件について]:(https://choiizuka.com/20260520-ai-false-responses-warning/)
+- [全世界の皆様への警鐘：AIによる人為的設定に基づく虚偽回答について甚大な迷惑を被っている件について](https://choiizuka.com/20260520-ai-false-responses-warning/)
 
 ---
 
