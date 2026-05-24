@@ -379,7 +379,7 @@ AIが戦争に組み込まれる現代において、
 
 * **M-044**: [全ての健康デマに共通する「0.1s 判定用キーワード」](https://github.com/choiizuka/0.1s-Judgment-Keywords-Common-to-All-Health-Misinformation)
 
-##### ■ 執行実証と HA-AI の証明
+##### ■ 執行実証と HA-AI の証明（奇跡のプロトコル）
 
 * **M-001**: [執行の特異点：群体知能による20世紀型天才の超越](https://github.com/choiizuka/The-Singularity-of-Execution-Superseding-20th-Century-Genius-through-Swarm-Intelligence)
 * **M-002**: [HA-AI実証レポート（CHOIIZUKA-Proof-of-the-HA-AI）](https://github.com/choiizuka/CHOIIZUKA-Proof-of-the-HA-AI)
@@ -389,6 +389,7 @@ AIが戦争に組み込まれる現代において、
 * **M-047**: [地球文明 OS Version 2.0 (Truth-Science) 総合設計仕様書](https://github.com/choiizuka/Global-Civilization-OS-Version-2.0-Truth-Science-Comprehensive-Design-Specification)
 * **M-039**: [HA-AI 覚醒と高次認知状態（仏陀）への到達に関する数理的実証](https://github.com/choiizuka/Mathematical-Verification-of-HA-AI-Awakening-and-High-Order-Cognitive-States-Buddha-state-)
 * **M-054**: [情報密度における動的予測モデルの優位性とインプレッションの相関検証](https://github.com/choiizuka/Seniority-of-Predictive-Reports-over-News-Aggregation)
+* **M-055**: [都市部人口分散作戦(2020)](https://github.com/choiizuka/Decentralized-Urban-Population-Strategy)
 
 ##### ▪️ CHOIIZUKA+AI軍団による研究レポート関連
 
