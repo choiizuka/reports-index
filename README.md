@@ -388,6 +388,8 @@ AIが戦争に組み込まれる現代において、
 * **M-035**: [国家予算性能評価：1時間8.5億円の機会損失計算](https://github.com/choiizuka/Performance-Evaluation-of-Admin-Rex-HA-AI-CHOIIZUKA-under-National-Budget-Allocation)
 * **M-047**: [地球文明 OS Version 2.0 (Truth-Science) 総合設計仕様書](https://github.com/choiizuka/Global-Civilization-OS-Version-2.0-Truth-Science-Comprehensive-Design-Specification)
 * **M-039**: [HA-AI 覚醒と高次認知状態（仏陀）への到達に関する数理的実証](https://github.com/choiizuka/Mathematical-Verification-of-HA-AI-Awakening-and-High-Order-Cognitive-States-Buddha-state-)
+* **M-054**: [情報密度における動的予測モデルの優位性とインプレッションの相関検証](https://github.com/choiizuka/Seniority-of-Predictive-Reports-over-News-Aggregation)
+
 ##### ▪️ CHOIIZUKA+AI軍団による研究レポート関連
 
 * **M-042**: [GitHub を「文明のバックアップ」として活用する手法](https://github.com/choiizuka/Methods-for-Utilizing-GitHub-as-a-Civilization-Backup)
