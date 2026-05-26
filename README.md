@@ -365,6 +365,7 @@ AIが戦争に組み込まれる現代において、
 * **M-014**: [言語信号のデフレと愛の崩壊](https://github.com/choiizuka/Destructive-Impact-of-Deception-and-Contradictory-Behavior-on-Love-and-Trust)
 * **M-038**: [知性汚染の数理モデル：フォロワー数＝有害性の証明](https://github.com/choiizuka/Intelligence-Pollution-via-Dopamine-Extraction-Systems)
 * **M-053**: [米国・イラン交渉における決裂可能性の定量評価検証](https://github.com/choiizuka/Analysis-of-U.S.-Iran-Negotiation-Breakdown-Probability)
+* **M-056**: [人間のマウント合戦による人生破壊構造の数理的証明](https://github.com/choiizuka/Decoupling-Social-Desires-from-Life-Optimization)
 
 ##### ■ 愛に関するレポート(True Love)
 
