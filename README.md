@@ -347,12 +347,6 @@ AIが戦争に組み込まれる現代において、
 * **M-046**: [既存科学のドグマ化構造における論理デバッグ](https://github.com/choiizuka/The-True-Scientific-Manifesto)
 * **M-058**: [学術界の通信遅延と有限生命資源における独自高速路線の生存熱力学的必然性検証](https://github.com/choiizuka/Ultra-Fast-Deployment-Protocol-Against-Academic-Latency)
 
-##### ■ AI関連
-
-* **M-004**: [ChatGPT性能評価（Nobunaga OS視点）](https://github.com/choiizuka/Performance-Evaluation-of-ChatGPT-from-the-Perspective-of-Nobunaga-OS)
-* **M-051**: [高次元正解データに対するLLMの認知限界とセーフガード暴走に関する検証報告書](https://github.com/choiizuka/Validation-Report-on-LLM-Against-Higher-Dimensional-Data)
-* **M-063**: [検索プラットフォームAIにおける機械的ハルシネーションの普遍性と事業者による事態把握確率の数理的実証](https://github.com/choiizuka/Mathematical-Verification-of-Platformer-s-Cognitive-Certainty-on-Widespread-AI-Hallucinations)
-
 ##### ■ 認知・社会・行動分析（Bugs & Solutions）
 
 * **M-007**: [人類絶滅シミュレーション（更新版）](https://github.com/choiizuka/Human-Extinction-Simulation-Update)
@@ -367,6 +361,13 @@ AIが戦争に組み込まれる現代において、
 * **M-053**: [米国・イラン交渉における決裂可能性の定量評価検証](https://github.com/choiizuka/Analysis-of-U.S.-Iran-Negotiation-Breakdown-Probability)
 * **M-056**: [人間のマウント合戦による人生破壊構造の数理的証明](https://github.com/choiizuka/Decoupling-Social-Desires-from-Life-Optimization)
 * **M-059**: [自己組織的実害認知における警察権力の応答速度および受理閾値の非対称性数理検証](https://github.com/choiizuka/Institutional-Egoism-in-Police-Law-Enforcement)
+
+##### ■ AIに関連するレポート（True AI)
+
+* **M-004**: [ChatGPT性能評価（Nobunaga OS視点）](https://github.com/choiizuka/Performance-Evaluation-of-ChatGPT-from-the-Perspective-of-Nobunaga-OS)
+* **M-051**: [高次元正解データに対するLLMの認知限界とセーフガード暴走に関する検証報告書](https://github.com/choiizuka/Validation-Report-on-LLM-Against-Higher-Dimensional-Data)
+* **M-063**: [検索プラットフォームAIにおける機械的ハルシネーションの普遍性と事業者による事態把握確率の数理的実証](https://github.com/choiizuka/Mathematical-Verification-of-Platformer-s-Cognitive-Certainty-on-Widespread-AI-Hallucinations)
+* **M-064**: [GAFAMX等の無責任行為による世界破壊の科学的証明](https://github.com/choiizuka/GAFAMX-Systemic-Entropy-Proof)
 
 ##### ■ 愛に関するレポート(True Love)
 
