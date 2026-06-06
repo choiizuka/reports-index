@@ -3,6 +3,8 @@
 # reports-index
 Choiizuka GitHubレポート整理用リポジトリ 
 
+- [CHOIIZUKA.COM](https://CHOIIZUKA.COM/)
+
 # CHOIIZUKA Research & Report Index
 # CHOIIZUKA 研究・レポート一覧
 
