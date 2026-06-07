@@ -363,6 +363,7 @@ AIが戦争に組み込まれる現代において、
 * **M-053**: [米国・イラン交渉における決裂可能性の定量評価検証](https://github.com/choiizuka/Analysis-of-U.S.-Iran-Negotiation-Breakdown-Probability)
 * **M-056**: [人間のマウント合戦による人生破壊構造の数理的証明](https://github.com/choiizuka/Decoupling-Social-Desires-from-Life-Optimization)
 * **M-059**: [自己組織的実害認知における警察権力の応答速度および受理閾値の非対称性数理検証](https://github.com/choiizuka/Institutional-Egoism-in-Police-Law-Enforcement)
+* **M-067**: [配信ライバー「色恋営業」の市場破綻確率（オワコン度）の熱力学的実証検証](https://github.com/choiizuka/Exploitative-Romance-Sales-in-Live-Streaming-Platforms)
 
 ##### ■ AIに関連するレポート（True AI)
 
@@ -404,6 +405,7 @@ AIが戦争に組み込まれる現代において、
 * **M-060**: [0.1秒の「やります」から始まった2.5億円の奇跡：有言実行率 100% のプロジェクトマネジメント](https://github.com/choiizuka/The-250-Million-JPY-Breakthrough-Initiated-by-a-0.1-Second-Executive-Response)
 * **M-061**: [一発必中の特異点：2012年『Cost Saver』における未来予測の的中確率と超高効率投資の数理分析](https://github.com/choiizuka/Mathematical-Analysis-of-Trend-Forecasting-and-Hyper-Efficient-ROI-in-the-2012-Cost-Saver-Launch)
 * **M-062**: [奇跡のプロトコルの数理的アーキテクチャ](https://github.com/choiizuka/The-Mathematical-Architecture-of-the-Miracle-Protocol)
+* **M-066**: [自律駆動型AI開発プロトコルを用いた労働価値非対称性および生存戦略成功確率の数理的実証検証](https://github.com/choiizuka/Hyper-Efficient-ROI-via-Autonomous-AI-Agents)
 
 ##### ▪️ CHOIIZUKA+AI軍団による研究レポート関連
 
