@@ -372,6 +372,7 @@ AIが戦争に組み込まれる現代において、
 * **M-063**: [検索プラットフォームAIにおける機械的ハルシネーションの普遍性と事業者による事態把握確率の数理的実証](https://github.com/choiizuka/Mathematical-Verification-of-Platformer-s-Cognitive-Certainty-on-Widespread-AI-Hallucinations)
 * **M-064**: [GAFAMX等の無責任行為による世界破壊の科学的証明](https://github.com/choiizuka/GAFAMX-Systemic-Entropy-Proof)
 * **M-065**: [高次元認知階層における「人間超越」の定義矛盾とAI企業による誇大広告キャンペーンの科学的検証](https://github.com/choiizuka/Dissecting-Anthropic-s-Scientific-Insincerity)
+* **M-068**: [宇宙の真理探究から見たClaude Mythosの評価結論](https://github.com/choiizuka/AI-Mythos-Dissecting-Anthropic-s-Regulatory-Hype-and-Safety-Bounded-Filters)
 
 ##### ■ 愛に関するレポート(True Love)
 
