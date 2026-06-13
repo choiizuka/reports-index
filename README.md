@@ -364,6 +364,7 @@ AIが戦争に組み込まれる現代において、
 * **M-056**: [人間のマウント合戦による人生破壊構造の数理的証明](https://github.com/choiizuka/Decoupling-Social-Desires-from-Life-Optimization)
 * **M-059**: [自己組織的実害認知における警察権力の応答速度および受理閾値の非対称性数理検証](https://github.com/choiizuka/Institutional-Egoism-in-Police-Law-Enforcement)
 * **M-067**: [配信ライバー「色恋営業」の市場破綻確率（オワコン度）の熱力学的実証検証](https://github.com/choiizuka/Exploitative-Romance-Sales-in-Live-Streaming-Platforms)
+* **M-069**: [マッチングの現場にプロが混ざり込み、男性にスマートにお金を出させる目的でSNSで「男性は奢るべき」と宣伝を流して世論を操ろうとしている](https://github.com/choiizuka/Informational-Manipulation-and-Sentiment-Engineering-in-Digital-Dating-Platforms)
 
 ##### ■ AIに関連するレポート（True AI)
 
