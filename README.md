@@ -391,6 +391,8 @@ AIが戦争に組み込まれる現代において、
 * **M-059**: [自己組織的実害認知における警察権力の応答速度および受理閾値の非対称性数理検証](https://github.com/choiizuka/Institutional-Egoism-in-Police-Law-Enforcement)
 * **M-067**: [配信ライバー「色恋営業」の市場破綻確率（オワコン度）の熱力学的実証検証](https://github.com/choiizuka/Exploitative-Romance-Sales-in-Live-Streaming-Platforms)
 * **M-069**: [マッチングの現場にプロが混ざり込み、男性にスマートにお金を出させる目的でSNSで「男性は奢るべき」と宣伝を流して世論を操ろうとしている](https://github.com/choiizuka/Informational-Manipulation-and-Sentiment-Engineering-in-Digital-Dating-Platforms)
+* **M-070**: [SNSによる偽情報の蔓延による人間の人生が破壊されていることの科学的検証レポート](https://github.com/choiizuka/Cognitive-Manipulation-and-Existential-Restoration-through-Truth-Science)
+* **M-071**: [宇宙の真理から見たある配信ライバーの一件に関する真の分析結果](https://github.com/choiizuka/An-Existential-Audit-of-the-Live-Streamer-Paradigm)
 
 ##### ■ AIに関連するレポート（True AI)
 
