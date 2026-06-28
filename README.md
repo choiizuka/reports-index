@@ -758,3 +758,4 @@ AI時代に、人間が何を考え、何を出力し、何を公開し、
 https://raw.githubusercontent.com/choiizuka/reports-index/main/README.md
 
 ---
+(C) 2026 CHOIIZUKA.COM
