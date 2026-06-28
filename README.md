@@ -261,6 +261,10 @@ AI活用・ライブコーディング・即興作業のログを公開してい
 
 AI・宇宙・人類・歴史などに関するシミュレーターやゲーム、プログラムなどを開発しています。
 
+### AI開発
+
+-[アニメや漫画に出てくるようなマザーAIを作るクラスター会話AIプログラム](https://github.com/choiizuka/A-Distributed-Cluster-Conversational-Pipeline-for-Sci-Fi-Foundational-Intelligence-Test)
+
 ### 3Dゲーム開発
 
 -[3Dゲーム開発のお知らせ](https://www.youtube.com/watch?v=Gz9zuq_K1AY)
