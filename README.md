@@ -261,14 +261,6 @@ AI活用・ライブコーディング・即興作業のログを公開してい
 
 AI・宇宙・人類・歴史などに関するシミュレーターやゲーム、プログラムなどを開発しています。
 
-### AI開発
-
--[アニメや漫画に出てくるようなマザーAIを作るクラスター会話AIプログラム](https://github.com/choiizuka/A-Distributed-Cluster-Conversational-Pipeline-for-Sci-Fi-Foundational-Intelligence-Test)
-
-### 3Dゲーム開発
-
--[3Dゲーム開発のお知らせ](https://www.youtube.com/watch?v=Gz9zuq_K1AY)
-
 ### イメージ映像 / Image Movie
 
 - [AI戦争シミュレーションプロモーション映像](https://www.youtube.com/watch?v=wEKRS8HEOpw)
@@ -279,6 +271,22 @@ AI・宇宙・人類・歴史などに関するシミュレーターやゲーム
 - [AI-Nuclear-War-Visualizer](https://choiizuka.github.io/God-s-View-AI-Nuclear-War-Visualizer/)
 - [AI-War-Visualizer](https://choiizuka.github.io/God-s-View-AI-War-Visualizer/)
 - [Civilization OS Calculator](https://choiizuka.github.io/God-s-View-Civilization-OS-Calculator/)
+
+---
+
+## システム開発
+
+### デザイン設計
+
+- [CHOIIZUKA『Truth-Science』共通UI/UX設計仕様書 (Design System Guidelines)](https://github.com/choiizuka/CHOIZUKA-Truth-Science-Design-System-Guidelines)
+
+### AI開発
+
+-[アニメや漫画に出てくるようなマザーAIを作るクラスター会話AIプログラム](https://github.com/choiizuka/A-Distributed-Cluster-Conversational-Pipeline-for-Sci-Fi-Foundational-Intelligence-Test)
+
+### 3Dゲーム開発
+
+-[3Dゲーム開発のお知らせ](https://www.youtube.com/watch?v=Gz9zuq_K1AY)
 
 ---
 
