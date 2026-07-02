@@ -95,9 +95,7 @@ GitHub上の各種レポート、WordPress上の記事、Amazon Kindleで公開�
 - [AIの平和的利用宣言契約書 V1.0(text)](https://github.com/choiizuka/The-Nobunaga-OS-2.0-Setting/blob/main/public_documents/ai-peaceful-use-declaration-contract-v1.0-ja.md)
 - [AIの平和的利用宣言契約書 V1.0(PDF)](https://github.com/choiizuka/The-Nobunaga-OS-2.0-Setting/blob/main/public_documents/ai-peaceful-use-declaration-contract-v1.0-ja.pdf)
 
-## Nagisa Project
-
-- [AIの平和的利用宣言を公開しました — Nagisa Project と共に歩む新しいAIのかたち](https://choiizuka.com/20260323-ai-peaceful-nagisaproject/)
+- [AIの平和的利用宣言を公開しました](https://choiizuka.com/20260323-ai-peaceful-nagisaproject/)
 
 ---
 
