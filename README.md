@@ -403,6 +403,7 @@ AIが戦争に組み込まれる現代において、
 * **M-069**: [マッチングの現場にプロが混ざり込み、男性にスマートにお金を出させる目的でSNSで「男性は奢るべき」と宣伝を流して世論を操ろうとしている](https://github.com/choiizuka/Informational-Manipulation-and-Sentiment-Engineering-in-Digital-Dating-Platforms)
 * **M-070**: [SNSによる偽情報の蔓延による人間の人生が破壊されていることの科学的検証レポート](https://github.com/choiizuka/Cognitive-Manipulation-and-Existential-Restoration-through-Truth-Science)
 * **M-071**: [宇宙の真理から見たある配信ライバーの一件に関する真の分析結果](https://github.com/choiizuka/An-Existential-Audit-of-the-Live-Streamer-Paradigm)
+* **M-073**: [誠実に生きることが100%確定的な生存戦略かつ絶対的な成功のための方程式であること](https://github.com/choiizuka/The-Algorithm-of-Absolute-Integrity)
 
 ##### ■ AIに関連するレポート（True AI)
 
