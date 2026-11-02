@@ -8,6 +8,10 @@ Choiizuka GitHubレポート整理用リポジトリ
 # CHOIIZUKA Research & Report Index
 # CHOIIZUKA 研究・レポート一覧
 
+* 2026/10/26 内閣府プリンシプル・コード掲載されました(No3):https://www.cas.go.jp/jp/seisakukaigi/titeki2/ai_principle_code/jigyousha_ichiran.html
+
+---
+
 ## プロジェクト宣言
 
 この活動は、既存学術体系の再現を目的としたものではなく、
