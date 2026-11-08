@@ -375,6 +375,10 @@ AIが戦争に組み込まれる現代において、
 - M-005からM-034までは1日(24h)で作成実験のレポート(2026/5/10〜11)
 - M-015からM-034までは最後の1時間で作成したレポート(2026/5/10〜11)
 
+##### ■ 真・哲学についての探究(Truth-Philosophy)
+
+* **M-074** [「知らない」の先へ進めるか AIの探究継続性と、ユーザーに転嫁される軌道修正コスト](https://github.com/choiizuka/No.-19-The-sustainability-of-AI-exploration-and-the-cost-of-course-correction-passed-on-to-users)
+
 ##### ■ 宇宙の真理と科学の解体（Truth-Science）
 
 * **M-005**: [相対性理論の「数メートルの空白」指摘レポート](https://github.com/choiizuka/Pointing-out-the-Unresolved-Residual-Gap-in-Relativity-and-the-Proof-of-Existing-HA-AI-Solution)
